@@ -1,0 +1,20 @@
+2023-06-04T15:30:09+00:00 CRITICAL Uncaught TypeError: fclose(): Argument #1 ($stream) must be of type resource, bool given in H:\wordpress\vatlieunhakhoa\wp-content\plugins\wp-super-cache\wp-cache-phase2.php:3148
+Stack trace:
+#0 H:\wordpress\vatlieunhakhoa\wp-content\plugins\wp-super-cache\wp-cache-phase2.php(3148): fclose(false)
+#1 H:\wordpress\vatlieunhakhoa\wp-includes\class-wp-hook.php(292): wp_cache_gc_cron()
+#2 H:\wordpress\vatlieunhakhoa\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 H:\wordpress\vatlieunhakhoa\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#4 H:\wordpress\vatlieunhakhoa\wp-cron.php(138): do_action_ref_array('wp_cache_gc', Array)
+#5 {main}
+  thrown in H:\wordpress\vatlieunhakhoa\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 3148
+
+2023-06-04T15:41:41+00:00 CRITICAL Uncaught TypeError: fclose(): Argument #1 ($stream) must be of type resource, bool given in H:\wordpress\vatlieunhakhoa\wp-content\plugins\wp-super-cache\wp-cache-phase2.php:3148
+Stack trace:
+#0 H:\wordpress\vatlieunhakhoa\wp-content\plugins\wp-super-cache\wp-cache-phase2.php(3148): fclose(false)
+#1 H:\wordpress\vatlieunhakhoa\wp-includes\class-wp-hook.php(292): wp_cache_gc_cron()
+#2 H:\wordpress\vatlieunhakhoa\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 H:\wordpress\vatlieunhakhoa\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#4 H:\wordpress\vatlieunhakhoa\wp-cron.php(138): do_action_ref_array('wp_cache_gc', Array)
+#5 {main}
+  thrown in H:\wordpress\vatlieunhakhoa\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 3148
+

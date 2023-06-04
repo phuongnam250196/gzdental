@@ -1,0 +1,2172 @@
+<!DOCTYPE html>
+<!-- saved from url=(0040)http://localhost:8888/vatlieunhakhoa// -->
+<html lang="en-US">
+<!--<![endif]-->
+
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Vật liệu nha khoa &#8211; Just another WordPress site</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Vật liệu nha khoa &raquo; Feed" href="http://localhost:8888/vatlieunhakhoa/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Vật liệu nha khoa &raquo; Comments Feed" href="http://localhost:8888/vatlieunhakhoa/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost:8888\/vatlieunhakhoa\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.9"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost:8888/vatlieunhakhoa/wp-includes/css/dist/block-library/style.min.css?ver=5.7.9' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=4.9.1' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=4.9.1' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.1' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.3.0' media='all' />
+<style id='woocommerce-layout-inline-css'>
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.3.0' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.3.0' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='yith_wcas_frontend-css'  href='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/yith-woocommerce-ajax-search/assets/css/yith_wcas_ajax_search.css?ver=1.9.0' media='all' />
+<link rel='stylesheet' id='vatlieunhakhoa-style-css'  href='http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/style.css?ver=1.0.0' media='all' />
+<script src='http://localhost:8888/vatlieunhakhoa/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script src='http://localhost:8888/vatlieunhakhoa/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="http://localhost:8888/vatlieunhakhoa/wp-json/" /><link rel="alternate" type="application/json" href="http://localhost:8888/vatlieunhakhoa/wp-json/wp/v2/pages/61" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost:8888/vatlieunhakhoa/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:8888/vatlieunhakhoa/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.9" />
+<meta name="generator" content="WooCommerce 5.3.0" />
+<link rel="canonical" href="http://localhost:8888/vatlieunhakhoa/" />
+<link rel='shortlink' href='http://localhost:8888/vatlieunhakhoa/' />
+<link rel="alternate" type="application/json+oembed" href="http://localhost:8888/vatlieunhakhoa/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2Fvatlieunhakhoa%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://localhost:8888/vatlieunhakhoa/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2Fvatlieunhakhoa%2F&#038;format=xml" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>    <!-- Favicon -->
+    <link rel="shortcut icon" href="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/favicon.png"
+        type="image/x-icon">
+
+    <link rel="stylesheet" href="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/css/save-me.css">
+    <link href="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/css/blogmate.css" rel="stylesheet" type="text/css">
+    <link href="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/css/flexslider.css" rel="stylesheet" type="text/css">
+    <link href="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/css/owl.carousel.css" rel="stylesheet" type="text/css">
+    <link href="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/css/jgrowl.css" rel="stylesheet" type="text/css">
+    <link href="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/css/clockdown.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/css/font-awesome.min.css">
+    <link href="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/css/newstyle-test.css" rel="stylesheet" type="text/css">
+	<link href="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/css/ProductRecentStyle.css" rel="stylesheet" type="text/css">
+	<link href="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/css/my-style.css" rel="stylesheet" type="text/css">
+
+    <style>
+        .phone-box span {
+            color: ;
+        }
+        a:hover, .box-category > ul#left-menu > li:hover > a, #left-menu li.lv1 a:hover,
+        #nav > li > a:hover:nth-child(1), #nav > li > a.active:nth-child(1), li.level0.active > a > span,
+        .toplinks div.links div a:hover, .top-cart-contain .price, .index-column-2 .links a:hover,
+        .price, .breadcrumbs li strong, .product-details span.price, #recently-viewed-items .price-box .special-price .price, 
+        #recently-viewed-items .price-box .regular-price .price, .availability.out-of-stock span, .regular-price .price,
+        .links-all a, a.link-article, .pr-module-box .pr-price, footer a:hover, .pager .pages li a:hover,
+        .product-view .product-shop .price, .special-price .price, .data-table .price, #shopping-cart-totals-table .price {
+            color: ;
+        }
+        .yith-ajaxsearchform-container #yith-s, .yith-ajaxsearchform-container #yith-s:focus {
+            border: 2px solid ;
+            border-right: none;
+        }
+        .yith-ajaxsearchform-container #yith-searchsubmit, .yith-ajaxsearchform-container #yith-searchsubmit:hover {
+            border: 2px solid ;
+        }
+        .side-nav-categories .block-title, .side-nav-categories div.spverticalmenu::before, .content-icon-reweer:hover,
+        .cart-box span, .new_title.center.color-2 h2, .new_title.center.color-3 h2, .newsletter-wrap button.subscribe,
+        .comment-form input[type="submit"], #cus-input-sub, .tab-collection-grid a.active, .pages .pagination li .current,
+        .tab-collection-list a.active, .upsell-pro .new_title.center::before {
+            background-color: ;
+        }
+        .btn-cus, .woocommerce a.btn-proceed-checkout {
+            background-color:  !important;
+        }
+        .content-icon-reweer, .content-icon-cart, .newsletter-wrap input[type="email"], .owl-item img:hover {
+            border: 1px solid ;
+        }
+        .mini-cart .actions .view-cart:hover {
+            background: ;
+            border-color: ;
+        }
+        .mini-cart .actions .btn-checkout, .actions a.btn-cart, .product-view .product-shop .add-to-box .btn-cart,
+        #shopping-cart-table button.button {
+            border: 1px solid ;
+            background: ;
+        }
+        .mini-cart .actions .btn-checkout:hover, .actions a.btn-cart:hover, .product-view .product-shop .add-to-box .btn-cart:hover,
+        #shopping-cart-table button.button:hover {
+            border: 1px solid ;
+            background: ;
+        }
+        .sale-label {
+            background: none 0px 0px repeat scroll ;
+        }
+        .new_title.center.color-2:before, .new_title.center.color-3:before {
+            border-right: 8px solid ;
+        }
+    </style>
+</head>
+
+<body class="home page-template-default page page-id-61 theme-vatlieunhakhoa woocommerce-no-js">
+    <header>
+        <div class="header-container">
+            <div class="header-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-7 col-xs-7">
+                            <!-- Default Welcome Message -->
+                            <div class="welcome-msg hidden-xs">
+                                <h1>Chào mừng bạn đã đến với Vật liệu nha khoa! </h1>
+                            </div>
+                            <!-- End Default Welcome Message -->
+                        </div>
+                        <div class="col-sm-5 col-xs-5">
+                            <div class="row">
+                                <div class="toplinks">
+                                    <div class="links">
+                                        <div><span class=""><a
+                                                    href="http://localhost:8888/vatlieunhakhoa//my-account"
+                                                    id="customer_login_link">Đăng nhập</a></span></div>
+                                        <div><span class=""><a
+                                                    href="http://localhost:8888/vatlieunhakhoa//my-account"
+                                                    id="customer_register_link">Đăng ký</a></span></div>
+                                    </div>
+                                    <!-- links -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                        <!-- Header Logo -->
+                        <div class="logo">
+                            <a title="Vật liệu nha khoa"
+                                href="http://localhost:8888/vatlieunhakhoa//">
+                                <img alt="Vật liệu nha khoa"
+                                    src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/logo.png">
+                                <h1 style="display:none;">Vật liệu nha khoa</h1>
+                            </a>
+                        </div>
+                        <!-- End Header Logo -->
+                    </div>
+                    <div class="col-lg-4 col-md-4 hidden-xs hidden-sm">
+                        <div class="top_phone_number">
+                            <div class="phone-img"><img
+                                    src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/icon-contact.png"></div>
+                            <div class="text">
+                                <p class="phone-box"><strong>Hỗ trợ: </strong><a href="tel:077.9192.888">
+                                        <span>077.9192.888</span></a></p>
+                                <p class="email-box">Email:<a href="mailto:vatlieunhakhoathanglong@gmail.com"
+                                        style="text-transform: none;">
+                                        <span>vatlieunhakhoathanglong@gmail.com</span></a></p>
+                            </div>
+                        </div>
+                        <div class="header_search hidden-xs">
+                                                        <div class="yith-ajaxsearchform-container">
+                                <form role="search" class="input-group search-bar" method="get" id="yith-ajaxsearchform" action="http://localhost:8888/vatlieunhakhoa/">
+                                    <div class="input-group">
+                                        <label class="screen-reader-text" for="yith-s">Search for:</label>
+                                        <input type="search" value="" name="s" id="yith-s" class="yith-s" placeholder="Tìm kiếm sản phẩm" data-loader-icon="" data-min-chars="2" />
+                                        <!-- <div class="input-group-btn"> -->
+                                            <input type="submit" id="yith-searchsubmit" value="Tìm" />
+                                        <!-- </div> -->
+                                        <input type="hidden" name="post_type" value="product" />
+                                                                            </div>
+                                </form>
+                            </div>
+                            <!-- <form class="input-group search-bar" action="http://localhost:8888/vatlieunhakhoa//search"
+                                method="get" role="search">
+                                <div class="collection-selector">
+                                    <div class="search_text">Danh mục</div>
+                                    <div id="search_info" class="list_search">
+                                        <div class="search_item" data-coll-id="938054">Vật liệu điều trị nội...</div>
+                                        <div class="search_item" data-coll-id="916969">Vật tư labo</div>
+                                        <div class="search_item" data-coll-id="916967">Mô hình tư vấn</div>
+                                        <div class="search_item" data-coll-id="916966">Vật tư tiêu hao</div>
+                                        <div class="search_item" data-coll-id="916964">Vật tư chỉnh nha</div>
+                                        <div class="search_item" data-coll-id="916963">Dụng cụ chỉnh nha</div>
+                                        <div class="search_item" data-coll-id="916962">Tay khoan; mũi khoan nha...</div>
+                                        <div class="search_item" data-coll-id="916961">Dụng cụ phòng khám</div>
+                                        <div class="search_item" data-coll-id="916960">Vật tư, dụng cụ nha...</div>
+                                        <div class="search_item" data-coll-id="916959">Thiết bị khác, linh kiện...</div>
+                                        <div class="search_item" data-coll-id="916958">Thiết bị labo</div>
+                                        <div class="search_item" data-coll-id="916957">Thiết bị implant</div>
+                                        <div class="search_item" data-coll-id="916956">Thiết bị nội nha;hình ảnh</div>
+                                        <div class="search_item" data-coll-id="916955">Thiết bị hấp sấy tiệt...</div>
+                                        <div class="search_item" data-coll-id="916954">Đèn tẩy trắng</div>
+                                        <div class="search_item" data-coll-id="916953">Máy cạo vôi &amp; đèn...</div>
+                                        <div class="search_item" data-coll-id="916952">Máy nén khí</div>
+                                        <div class="search_item" data-coll-id="916951">Ghế nha khoa</div>
+                                        <div class="search_item" data-coll-id="916950">Thiết bị nha khoa</div>
+                                        <div class="search_item" data-coll-id="916949">Vật liệu labo</div>
+                                        <div class="liner_search"></div>
+                                        <div class="search_item active" data-coll-id="0">Tất cả</div>
+                                    </div>
+                                </div>
+                                <input type="search" name="query" value="" placeholder="Bạn muốn tìm gì... "
+                                    class="input-group-field st-default-search-input search-text" autocomplete="off">
+                                <span class="input-group-btn">
+                                    <button class="btn icon-fallback-text">
+                                        <span class="fa fa-search"></span>
+                                    </button>
+                                </span>
+                            </form> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <nav class="sticky">
+        <div class="nav-menu">
+            <div class="nav-inner">
+                <!-- mobile-menu -->
+                <div class="hidden-md" id="mobile-menu">
+                    <ul class="navmenu">
+                        <li>
+                            <div class="menutop">
+                                <div class="toggle"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></div>
+                                <h2>Menu</h2>
+                            </div>
+                            <ul style="display:none;" class="submenu">
+                                <li>
+                                    <ul id="menu-menu-1" class="topnav"><li id="menu-item-110" class="level0 level-top parent active"><a href="http://localhost:8888/vatlieunhakhoa/" class="menu-item-link-class "><span>Trang chủ</span></a></li>
+<li id="menu-item-116" class="level0 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/gioi-thieu/" class="menu-item-link-class "><span>Giới thiệu</span></a></li>
+<li id="menu-item-123" class="level0 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/shop/" class="menu-item-link-class "><span>Sản phẩm</span></a>
+<ul class="level0">
+	<li id="menu-item-181" class="level1 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/" class="menu-item-link-class "><span>Thiết bị nha khoa</span></a>
+	<ul id="" class="sub-menu dropdown-content">
+		<li id="menu-item-182" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/ghe-nha-khoa/" class="menu-item-link-class "><span>Ghế nha khoa</span></a></li>
+		<li id="menu-item-187" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/den-tay-trang/" class="menu-item-link-class "><span>Đèn tẩy trắng</span></a></li>
+		<li id="menu-item-189" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/may-nen-khi/" class="menu-item-link-class "><span>Máy nén khí</span></a></li>
+		<li id="menu-item-191" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/thiet-bi-implant/" class="menu-item-link-class "><span>Thiết bị implant</span></a></li>
+		<li id="menu-item-193" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/thiet-bi-labo/" class="menu-item-link-class "><span>Thiết bị labo</span></a></li>
+		<li id="menu-item-190" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/thiet-bi-hap-say-tiet-trung/" class="menu-item-link-class "><span>Thiết bị hấp sấy tiệt trùng</span></a></li>
+		<li id="menu-item-194" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/thiet-bi-noi-nha-hinh-anh/" class="menu-item-link-class "><span>Thiết bị nội nha;hình ảnh</span></a></li>
+		<li id="menu-item-188" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/may-cao-voi-den-quang-trung-hop/" class="menu-item-link-class "><span>Máy cạo vôi &amp; đèn quang trùng hợp</span></a></li>
+		<li id="menu-item-192" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/thiet-bi-khac-linh-kien-thay-the/" class="menu-item-link-class "><span>Thiết bị khác, linh kiện thay thế</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-183" class="level1 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/" class="menu-item-link-class "><span>Vật liệu nha khoa</span></a>
+	<ul id="" class="sub-menu dropdown-content">
+		<li id="menu-item-184" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/vat-lieu-dieu-tri-noi-nha/" class="menu-item-link-class "><span>Vật liệu điều trị nội nha</span></a></li>
+		<li id="menu-item-195" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/chat-lay-dau/" class="menu-item-link-class "><span>Chất lấy dầu</span></a></li>
+		<li id="menu-item-196" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/tay-trang-rang/" class="menu-item-link-class "><span>Tẩy trắng răng</span></a></li>
+		<li id="menu-item-198" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/vat-lieu-gan-rang/" class="menu-item-link-class "><span>Vật liệu gắn răng</span></a></li>
+		<li id="menu-item-197" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/vat-lieu-gan-chinh-nha/" class="menu-item-link-class "><span>Vật liệu gắn Chỉnh nha</span></a></li>
+		<li id="menu-item-199" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/vat-lieu-labo/" class="menu-item-link-class "><span>Vật liệu labo</span></a></li>
+		<li id="menu-item-200" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/vat-lieu-phuc-hinh/" class="menu-item-link-class "><span>Vật liệu phục hình</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-185" class="level1 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/" class="menu-item-link-class "><span>Vật tư, dụng cụ nha khoa</span></a>
+	<ul id="" class="sub-menu dropdown-content">
+		<li id="menu-item-186" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/dung-cu-phong-kham/" class="menu-item-link-class "><span>Dụng cụ phòng khám</span></a></li>
+		<li id="menu-item-201" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/dung-cu-chinh-nha/" class="menu-item-link-class "><span>Dụng cụ chỉnh nha</span></a></li>
+		<li id="menu-item-202" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/mo-hinh-tu-van/" class="menu-item-link-class "><span>Mô hình tư vấn</span></a></li>
+		<li id="menu-item-204" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/vat-tu-chinh-nha/" class="menu-item-link-class "><span>Vật tư chỉnh nha</span></a></li>
+		<li id="menu-item-205" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/vat-tu-labo/" class="menu-item-link-class "><span>Vật tư labo</span></a></li>
+		<li id="menu-item-206" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/vat-tu-tieu-hao/" class="menu-item-link-class "><span>Vật tư tiêu hao</span></a></li>
+		<li id="menu-item-203" class="level2 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/tay-khoan-mui-khoan-nha-khoa/" class="menu-item-link-class "><span>Tay khoan, mũi khoan nha khoa</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-124" class="level0 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/thu-vien/" class="menu-item-link-class "><span>Thư viện</span></a></li>
+<li id="menu-item-126" class="level0 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/video/" class="menu-item-link-class "><span>video</span></a></li>
+<li id="menu-item-125" class="level0 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/tin-tuc/" class="menu-item-link-class "><span>Tin tức</span></a></li>
+<li id="menu-item-120" class="level0 level-top parent"><a href="http://localhost:8888/vatlieunhakhoa/lien-he/" class="menu-item-link-class "><span>Liên hệ</span></a></li>
+</ul>                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+
+                <!--End mobile-menu -->
+                <div class="side-nav-categories hidden-xs hidden-sm">
+                    <div class="spverticalmenu">
+                        <div class="block-title">Danh mục sản phẩm</div>
+                    </div>
+                    <div class="box-content box-category">
+                        <ul id="left-menu"><li class="lv0 open menu-icon"><a class="lv0" href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/"><span
+					class="child-title">Thiết bị nha khoa</span><i
+					class="fa fa-angle-right" aria-hidden="true"></i></a><ul class="lv1" style="margin: 0"><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Đèn tẩy trắng</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Ghế nha khoa</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Máy cạo vôi &amp; đèn quang trùng hợp</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Máy nén khí</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Thiết bị hấp sấy tiệt trùng</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Thiết bị implant</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Thiết bị khác, linh kiện thay thế</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Thiết bị labo</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Thiết bị nội nha;hình ảnh</span></a></li></li></ul><li class="lv0 open menu-icon"><a class="lv0" href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/"><span
+					class="child-title">Vật liệu nha khoa</span><i
+					class="fa fa-angle-right" aria-hidden="true"></i></a><ul class="lv1" style="margin: 0"><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Chất lấy dầu</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Tẩy trắng răng</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Vật liệu điều trị nội nha</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Vật liệu gắn Chỉnh nha</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Vật liệu gắn răng</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Vật liệu labo</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Vật liệu phục hình</span></a></li></li></ul><li class="lv0 open menu-icon"><a class="lv0" href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/"><span
+					class="child-title">Vật tư, dụng cụ nha khoa</span><i
+					class="fa fa-angle-right" aria-hidden="true"></i></a><ul class="lv1" style="margin: 0"><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Dụng cụ chỉnh nha</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Dụng cụ phòng khám</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Mô hình tư vấn</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Tay khoan, mũi khoan nha khoa</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Vật tư chỉnh nha</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Vật tư labo</span></a></li><li class="lv1"><a class="lv1"><span
+							class="lv1-title">Vật tư tiêu hao</span></a></li></li></ul>                    </div>
+                </div>
+                <ul id="nav" class="hidden-xs hidden-sm"><li class="level0 parent active"><a href="http://localhost:8888/vatlieunhakhoa/" class="menu-item-link-class "><span>Trang chủ</span></a></li>
+<li class="level0 parent"><a href="http://localhost:8888/vatlieunhakhoa/gioi-thieu/" class="menu-item-link-class "><span>Giới thiệu</span></a></li>
+<li class="level0 parent"><a href="http://localhost:8888/vatlieunhakhoa/shop/" class="menu-item-link-class "><span>Sản phẩm</span></a>
+<div class="level0-wrapper dropdown-6col"><div class="level0-wrapper2"><div class="nav-block nav-block-center"><ul class="level0">
+	<li class="level1 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/" class="menu-item-link-class "><span>Thiết bị nha khoa</span></a>
+	<ul id="" class="sub-menu dropdown-content">
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/ghe-nha-khoa/" class="menu-item-link-class "><span>Ghế nha khoa</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/den-tay-trang/" class="menu-item-link-class "><span>Đèn tẩy trắng</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/may-nen-khi/" class="menu-item-link-class "><span>Máy nén khí</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/thiet-bi-implant/" class="menu-item-link-class "><span>Thiết bị implant</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/thiet-bi-labo/" class="menu-item-link-class "><span>Thiết bị labo</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/thiet-bi-hap-say-tiet-trung/" class="menu-item-link-class "><span>Thiết bị hấp sấy tiệt trùng</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/thiet-bi-noi-nha-hinh-anh/" class="menu-item-link-class "><span>Thiết bị nội nha;hình ảnh</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/may-cao-voi-den-quang-trung-hop/" class="menu-item-link-class "><span>Máy cạo vôi &amp; đèn quang trùng hợp</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/thiet-bi-khac-linh-kien-thay-the/" class="menu-item-link-class "><span>Thiết bị khác, linh kiện thay thế</span></a></li>
+	</ul>
+</li>
+	<li class="level1 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/" class="menu-item-link-class "><span>Vật liệu nha khoa</span></a>
+	<ul id="" class="sub-menu dropdown-content">
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/vat-lieu-dieu-tri-noi-nha/" class="menu-item-link-class "><span>Vật liệu điều trị nội nha</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/chat-lay-dau/" class="menu-item-link-class "><span>Chất lấy dầu</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/tay-trang-rang/" class="menu-item-link-class "><span>Tẩy trắng răng</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/vat-lieu-gan-rang/" class="menu-item-link-class "><span>Vật liệu gắn răng</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/vat-lieu-gan-chinh-nha/" class="menu-item-link-class "><span>Vật liệu gắn Chỉnh nha</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/vat-lieu-labo/" class="menu-item-link-class "><span>Vật liệu labo</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/vat-lieu-phuc-hinh/" class="menu-item-link-class "><span>Vật liệu phục hình</span></a></li>
+	</ul>
+</li>
+	<li class="level1 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/" class="menu-item-link-class "><span>Vật tư, dụng cụ nha khoa</span></a>
+	<ul id="" class="sub-menu dropdown-content">
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/dung-cu-phong-kham/" class="menu-item-link-class "><span>Dụng cụ phòng khám</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/dung-cu-chinh-nha/" class="menu-item-link-class "><span>Dụng cụ chỉnh nha</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/mo-hinh-tu-van/" class="menu-item-link-class "><span>Mô hình tư vấn</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/vat-tu-chinh-nha/" class="menu-item-link-class "><span>Vật tư chỉnh nha</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/vat-tu-labo/" class="menu-item-link-class "><span>Vật tư labo</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/vat-tu-tieu-hao/" class="menu-item-link-class "><span>Vật tư tiêu hao</span></a></li>
+		<li class="level2 parent"><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/tay-khoan-mui-khoan-nha-khoa/" class="menu-item-link-class "><span>Tay khoan, mũi khoan nha khoa</span></a></li>
+	</ul>
+</li>
+</ul></div></div></div>
+</li>
+<li class="level0 parent"><a href="http://localhost:8888/vatlieunhakhoa/thu-vien/" class="menu-item-link-class "><span>Thư viện</span></a></li>
+<li class="level0 parent"><a href="http://localhost:8888/vatlieunhakhoa/video/" class="menu-item-link-class "><span>video</span></a></li>
+<li class="level0 parent"><a href="http://localhost:8888/vatlieunhakhoa/tin-tuc/" class="menu-item-link-class "><span>Tin tức</span></a></li>
+<li class="level0 parent"><a href="http://localhost:8888/vatlieunhakhoa/lien-he/" class="menu-item-link-class "><span>Liên hệ</span></a></li>
+</ul>               
+                <div class="pull-right menu-img">
+                    <!-- Top Cart -->
+                    <div class="top-cart-contain">
+                        <div class="mini-cart">
+                            <div data-toggle="dropdown" data-hover="dropdown" class="basket dropdown-toggle">
+                                <a href="http://localhost:8888/vatlieunhakhoa//cart" onclick="location.href=/cart/39">
+                                    <div class="content-icon-cart"><img
+                                            src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/icon-cart.png"
+                                            class="cl-block" style="width:20px;"><img
+                                            src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/icon-cart-2.png"
+                                            class="cl-hidden" style="width:20px;"></div>
+                                    <div class="cart-box hidden-col"><span id="cart-total">1</span></div>
+                                </a>
+                            </div>
+                            <div>
+                                <div style="display: none;" class="top-cart-content arrow_box">
+                                    <div class="block-subtitle">Sản phẩm đã cho vào giỏ hàng</div>
+                                    <ul id="cart-sidebar" class="mini-products-list">
+                                        
+                                    </ul>
+                                    <div class="footer_form">
+                                        <div class="">
+                                            <li>
+                                                <div class="top-subtotal">Tổng cộng: <span class="price">0₫</span>
+                                                </div>
+                                            </li>
+                                            <li style="margin-left:-15px;margin-right:-15px;">
+                                                <div class="actions">
+                                                <a href="http://localhost:8888/vatlieunhakhoa//cart" class="btn-checkout" type="button"
+                                                     >
+                                                        <span>Thanh toán</span></a>
+                                                    <a href="http://localhost:8888/vatlieunhakhoa//cart" class="view-cart" type="button"
+                                                     >
+                                                        <span>Giỏ hàng</span>
+                                                    </a>
+                                                </div>
+                                            </li>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="content-icon-reweer hidden-xs hidden-sm">
+                        <a href="javascript:history.go(0)">
+                            <img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/retweet-arrows-1.png"
+                                style="width:20px" title="tải lại trang" alt="Tải lại trang">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <style>
+        
+        #nav ul.level0 > li > a {
+            font-size: 14px;
+            color: #7d7d7d;
+            line-height: 30px;
+            text-transform: uppercase;
+        }
+        #nav ul.sub-menu.dropdown-content {
+            margin-left: 0;
+            padding-left: 0;
+            color: #7d7d7d;
+            line-height: 30px;
+            padding: 0 10px;
+            font-size: 14px;
+            display: block;
+            transition: all 200ms ease-in-out;
+            -webkit-transition: all 200ms ease-in-out;
+            -moz-transition: all 200ms ease-in-out;
+            -o-transition: all 200ms ease-in-out;
+        }
+        #nav ul.level0 > li > a span {
+            position: relative;
+        }
+        #nav ul.level0 > li > a span:after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 100%;
+            background: #eee;
+            height: 0.5px;
+        }
+        #mobile-menu ul.navmenu .menutop {
+            display: flex;
+        }
+
+        #cart-sidebar img {
+            width: 80px;
+        }
+        @media screen and (max-width: 600px) {
+            .sale-label {
+                left: -480px;
+                padding: 50px 30px 5px;
+            }
+        }
+        @media screen and (max-width: 470px) {
+            .sale-label {
+                left: -130px;
+                padding: 30px 30px 5px;
+            }
+            .masonry-container {
+                margin-top: 36px;
+            }
+        }
+    </style><!-- <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+                        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                            <li data-target="#carousel-example-generic" data-slide-to="1" class=""></li>
+                            <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
+                        </ol>
+    <div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                    <a href="http://localhost:8888/vatlieunhakhoa#">
+                        <img src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/slide-img3.jpg" alt="slide 3">
+                    </a>
+                </div>
+                            <div class="item ">
+                    <a href="http://localhost:8888/vatlieunhakhoa#">
+                        <img src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/slide-img2.jpg" alt="Slide 2">
+                    </a>
+                </div>
+                            <div class="item ">
+                    <a href="http://localhost:8888/vatlieunhakhoa#">
+                        <img src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/slide-img.jpg" alt="slide 1">
+                    </a>
+                </div>
+                    
+    </div>
+</div> -->
+<!-- <div class="table-service hidden-xs hidden-sm">
+    <div class="container">
+        <table class="service">
+            <tbody>
+                <tr class="service-tr">
+                    <th class="service-th">
+                        <div class="service-th-div">
+                            <img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/icon-guide-1.png">
+                            <div class="text">
+                                <h5 class="hidden-xs"><a href="http://localhost:8888/vatlieunhakhoa//#">Giao hàng
+                                    </a></h5>
+                                <p class="chinh_sach">miễn phí</p>
+                            </div>
+                        </div>
+                    </th>
+                    <th class="service-th">
+                        <div class="service-th-div">
+                            <img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/icon-guide-2.png">
+                            <div class="text">
+                                <h5 class="hidden-xs"><a href="http://localhost:8888/vatlieunhakhoa//#">Thanh
+                                        toán</a></h5>
+                                <p class="chinh_sach">COD</p>
+                            </div>
+                        </div>
+                    </th>
+                    <th class="service-th">
+                        <div class="service-th-div">
+                            <img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/icon-guide-3.png">
+                            <div class="text">
+                                <h5 class="hidden-xs"><a href="http://localhost:8888/vatlieunhakhoa//#">Hoàn trả
+                                        tiền</a></h5>
+                                <p class="chinh_sach">trong 3 ngày</p>
+                            </div>
+                        </div>
+                    </th>
+                    <th class="service-th">
+                        <div class="service-th-div">
+                            <img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/icon-guide-4.png">
+                            <div class="text">
+                                <h5 class="hidden-xs"><a href="http://localhost:8888/vatlieunhakhoa//#">Đổi
+                                        trả</a></h5>
+                                <p class="chinh_sach">bảo hành</p>
+                            </div>
+                        </div>
+                    </th>
+                    <th class="service-th">
+                        <div class="service-th-div">
+                            <img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/icon-guide-5.png">
+                            <div class="text">
+                                <h5 class="hidden-xs"><a href="http://localhost:8888/vatlieunhakhoa//#">Thanh toán
+                                    </a></h5>
+                                <p class="chinh_sach">bảo mật</p>
+                            </div>
+                        </div>
+                    </th>
+                    <th class="service-th">
+                        <div class="service-th-div" style="border:0">
+                            <img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/icon-guide-6.png">
+                            <div class="text">
+                                <h5 class="hidden-xs"><a href="http://localhost:8888/vatlieunhakhoa//#">Hỗ trợ
+                                    </a></h5>
+                                <p class="chinh_sach">24/7</p>
+                            </div>
+                        </div>
+                    </th>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div> -->
+
+<div class="offer-banner-section hidden-xs">
+    <ul class="container">
+        <div class="row">
+                                    <li class="col-lg-4 col-xs-12 col-sm-4">
+                            <a href="http://localhost:8888/vatlieunhakhoa">
+                                <img alt="Giảm giá tay khoan" title="Giảm giá tay khoan" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/offer-banner.jpg">
+                            </a>
+                        </li>
+                                    <li class="col-lg-4 col-xs-12 col-sm-4">
+                            <a href="#">
+                                <img alt="Giảm giá máy cắt" title="Giảm giá máy cắt" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/offer-banner2.jpg">
+                            </a>
+                        </li>
+                                    <li class="col-lg-4 col-xs-12 col-sm-4">
+                            <a href="#">
+                                <img alt="Hệ thống đèn" title="Hệ thống đèn" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/offer-banner3.jpg">
+                            </a>
+                        </li>
+                    </div>
+    </ul>
+</div>
+<div class="main-col">
+    <div class="container">
+        <div class="std">
+            <!-- Best Seller Slider -->
+            <div class="best-seller-pro wow bounceInUp animated animated color animated" style="visibility: visible;">
+                <div class="slider-items-products">
+                    <div class="col-xs-12 col-sm-12 col-md-2 ">
+                        <div class="new_title center">
+                            <h2><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa">Vật liệu nha khoa</a></h2>
+                        </div>
+                        <div class="index-column-2 row-service hidden-xs hidden-sm">
+                            <ul class="links">
+                                <li><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/vat-lieu-dieu-tri-noi-nha/" rel="tag" class="vat-lieu-dieu-tri-noi-nha" title="Vật liệu điều trị nội nha">Vật liệu điều trị nội nha</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/chat-lay-dau/" rel="tag" class="chat-lay-dau" title="Chất lấy dầu">Chất lấy dầu</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/vat-lieu-gan-rang/" rel="tag" class="vat-lieu-gan-rang" title="Vật liệu gắn răng">Vật liệu gắn răng</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/vat-lieu-phuc-hinh/" rel="tag" class="vat-lieu-phuc-hinh" title="Vật liệu phục hình">Vật liệu phục hình</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/tay-trang-rang/" rel="tag" class="tay-trang-rang" title="Tẩy trắng răng">Tẩy trắng răng</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/vat-lieu-gan-chinh-nha/" rel="tag" class="vat-lieu-gan-chinh-nha" title="Vật liệu gắn Chỉnh nha">Vật liệu gắn Chỉnh nha</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-lieu-nha-khoa/vat-lieu-labo/" rel="tag" class="vat-lieu-labo" title="Vật liệu labo">Vật liệu labo</a></li>                            </ul>
+                        </div>
+                    </div>
+                    <div class="woocommerce columns-4 ">
+	<div class="col-md-10 masonry-container" style="position: relative; height: 530px;">
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/thuoc-tram-bit-tuy-ah26/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ah26-root-canal-sealer-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ah26-root-canal-sealer-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ah26-root-canal-sealer-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ah26-root-canal-sealer-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ah26-root-canal-sealer.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/thuoc-tram-bit-tuy-ah26/"
+			title="THUỐC TRÁM BÍT TỦY AH26">THUỐC TRÁM BÍT TỦY AH26</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">670.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=241" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="241" data-product_sku="" aria-label="Add &ldquo;THUỐC TRÁM BÍT TỦY AH26&rdquo; to your cart" rel="nofollow" data-product_name="THUỐC TRÁM BÍT TỦY AH26" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ah26-root-canal-sealer-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ah26-root-canal-sealer-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ah26-root-canal-sealer-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ah26-root-canal-sealer-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ah26-root-canal-sealer.jpg 400w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="670000" data-product_slug="thuoc-tram-bit-tuy-ah26">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/thuoc-tram-bit-tuy-ah26/" title="THUỐC TRÁM BÍT TỦY AH26">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/thach-cao-planet/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/thach-cao-planet-1kg-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/thach-cao-planet-1kg-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/thach-cao-planet-1kg-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/thach-cao-planet-1kg-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/thach-cao-planet-1kg.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/thach-cao-planet/"
+			title="THẠCH CAO PLANET">THẠCH CAO PLANET</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">35.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=250" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="250" data-product_sku="" aria-label="Add &ldquo;THẠCH CAO PLANET&rdquo; to your cart" rel="nofollow" data-product_name="THẠCH CAO PLANET" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/thach-cao-planet-1kg-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/thach-cao-planet-1kg-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/thach-cao-planet-1kg-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/thach-cao-planet-1kg-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/thach-cao-planet-1kg.jpg 400w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="35000" data-product_slug="thach-cao-planet">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/thach-cao-planet/" title="THẠCH CAO PLANET">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/thach-cao-cung-snowrock/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/snow-rock-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/snow-rock-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/snow-rock-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/snow-rock-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/snow-rock.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/thach-cao-cung-snowrock/"
+			title="Thạch Cao Cứng Snowrock">Thạch Cao Cứng Snowrock</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">35.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=248" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="248" data-product_sku="" aria-label="Add &ldquo;Thạch Cao Cứng Snowrock&rdquo; to your cart" rel="nofollow" data-product_name="Thạch Cao Cứng Snowrock" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/snow-rock-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/snow-rock-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/snow-rock-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/snow-rock-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/snow-rock.jpg 480w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="35000" data-product_slug="thach-cao-cung-snowrock">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/thach-cao-cung-snowrock/" title="Thạch Cao Cứng Snowrock">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/silicone-lay-dau-light-silagum-dmg/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/silicone-light-silagum-dmg-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/silicone-light-silagum-dmg-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/silicone-light-silagum-dmg-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/silicone-light-silagum-dmg-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/silicone-light-silagum-dmg.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/silicone-lay-dau-light-silagum-dmg/"
+			title="SILICONE LẤY DẤU LIGHT SILAGUM DMG">SILICONE LẤY DẤU LIGHT SILAGUM DMG</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">395.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=252" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="252" data-product_sku="" aria-label="Add &ldquo;SILICONE LẤY DẤU LIGHT SILAGUM DMG&rdquo; to your cart" rel="nofollow" data-product_name="SILICONE LẤY DẤU LIGHT SILAGUM DMG" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/silicone-light-silagum-dmg-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/silicone-light-silagum-dmg-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/silicone-light-silagum-dmg-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/silicone-light-silagum-dmg-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/silicone-light-silagum-dmg.jpg 400w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="395000" data-product_slug="silicone-lay-dau-light-silagum-dmg">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/silicone-lay-dau-light-silagum-dmg/" title="SILICONE LẤY DẤU LIGHT SILAGUM DMG">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/formacresol-tf-sat-trung-tuy-chet/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/camphenol-sat-trung-ot-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/camphenol-sat-trung-ot-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/camphenol-sat-trung-ot-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/camphenol-sat-trung-ot-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/camphenol-sat-trung-ot.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/formacresol-tf-sat-trung-tuy-chet/"
+			title="FORMACRESOL-TF( SÁT TRÙNG TỦY CHẾT)">FORMACRESOL-TF( SÁT TRÙNG TỦY CHẾT)</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">220.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=239" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="239" data-product_sku="" aria-label="Add &ldquo;FORMACRESOL-TF( SÁT TRÙNG TỦY CHẾT)&rdquo; to your cart" rel="nofollow" data-product_name="FORMACRESOL-TF( SÁT TRÙNG TỦY CHẾT)" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/camphenol-sat-trung-ot-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/camphenol-sat-trung-ot-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/camphenol-sat-trung-ot-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/camphenol-sat-trung-ot-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/camphenol-sat-trung-ot.jpg 400w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="220000" data-product_slug="formacresol-tf-sat-trung-tuy-chet">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/formacresol-tf-sat-trung-tuy-chet/" title="FORMACRESOL-TF( SÁT TRÙNG TỦY CHẾT)">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/dung-dich-bom-rua-ong-tuy-parcan/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cone-gutta-carvene-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cone-gutta-carvene-1-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cone-gutta-carvene-1-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cone-gutta-carvene-1-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cone-gutta-carvene-1.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/dung-dich-bom-rua-ong-tuy-parcan/"
+			title="DUNG DỊCH BƠM RỬA ỐNG TỦY PARCAN">DUNG DỊCH BƠM RỬA ỐNG TỦY PARCAN</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">870.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=245" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="245" data-product_sku="" aria-label="Add &ldquo;DUNG DỊCH BƠM RỬA ỐNG TỦY PARCAN&rdquo; to your cart" rel="nofollow" data-product_name="DUNG DỊCH BƠM RỬA ỐNG TỦY PARCAN" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cone-gutta-carvene-1-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cone-gutta-carvene-1-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cone-gutta-carvene-1-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cone-gutta-carvene-1-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cone-gutta-carvene-1.jpg 400w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="870000" data-product_slug="dung-dich-bom-rua-ong-tuy-parcan">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/dung-dich-bom-rua-ong-tuy-parcan/" title="DUNG DỊCH BƠM RỬA ỐNG TỦY PARCAN">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/con-gutta-diadent-co-vach-chia-gutta-percha/" class="grid-product__link"><img width="160" height="160" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/con-gutta-diadent-21.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/con-gutta-diadent-21.jpg 160w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/con-gutta-diadent-21-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/con-gutta-diadent-21-100x100.jpg 100w" sizes="(max-width: 160px) 100vw, 160px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/con-gutta-diadent-co-vach-chia-gutta-percha/"
+			title="CÔN GUTTA DIADENT CÓ VẠCH CHIA- GUTTA PERCHA">CÔN GUTTA DIADENT CÓ VẠCH CHIA- GUTTA PERCHA</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">50.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=235" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="235" data-product_sku="" aria-label="Add &ldquo;CÔN GUTTA DIADENT CÓ VẠCH CHIA- GUTTA PERCHA&rdquo; to your cart" rel="nofollow" data-product_name="CÔN GUTTA DIADENT CÓ VẠCH CHIA- GUTTA PERCHA" data-product_image="&lt;img width=&quot;160&quot; height=&quot;160&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/con-gutta-diadent-21.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/con-gutta-diadent-21.jpg 160w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/con-gutta-diadent-21-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/con-gutta-diadent-21-100x100.jpg 100w&quot; sizes=&quot;(max-width: 160px) 100vw, 160px&quot; /&gt;" data-product_price="50000" data-product_slug="con-gutta-diadent-co-vach-chia-gutta-percha">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/con-gutta-diadent-co-vach-chia-gutta-percha/" title="CÔN GUTTA DIADENT CÓ VẠCH CHIA- GUTTA PERCHA">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/cement-gan-tam-t-cavex/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-tam-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-tam-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-tam-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-tam-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-tam.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/cement-gan-tam-t-cavex/"
+			title="CEMENT GẮN TẠM T CAVEX">CEMENT GẮN TẠM T CAVEX</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">380.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=271" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="271" data-product_sku="" aria-label="Add &ldquo;CEMENT GẮN TẠM T CAVEX&rdquo; to your cart" rel="nofollow" data-product_name="CEMENT GẮN TẠM T CAVEX" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-tam-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-tam-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-tam-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-tam-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-tam.jpg 400w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="380000" data-product_slug="cement-gan-tam-t-cavex">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/cement-gan-tam-t-cavex/" title="CEMENT GẮN TẠM T CAVEX">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/cement-gan-perma-cem-dmg/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-permacem-2-0-dmg-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-permacem-2-0-dmg-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-permacem-2-0-dmg-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-permacem-2-0-dmg-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-permacem-2-0-dmg.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/cement-gan-perma-cem-dmg/"
+			title="CEMENT GẮN PERMA CEM- DMG">CEMENT GẮN PERMA CEM- DMG</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">1.490.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=272" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="272" data-product_sku="" aria-label="Add &ldquo;CEMENT GẮN PERMA CEM- DMG&rdquo; to your cart" rel="nofollow" data-product_name="CEMENT GẮN PERMA CEM- DMG" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-permacem-2-0-dmg-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-permacem-2-0-dmg-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-permacem-2-0-dmg-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-permacem-2-0-dmg-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-permacem-2-0-dmg.jpg 400w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="1490000" data-product_slug="cement-gan-perma-cem-dmg">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/cement-gan-perma-cem-dmg/" title="CEMENT GẮN PERMA CEM- DMG">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/cement-gan-meron-voco/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-meron-voco-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-meron-voco-300x300.png 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-meron-voco-150x150.png 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-meron-voco-100x100.png 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-meron-voco.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/cement-gan-meron-voco/"
+			title="CEMENT GẮN MERON- VOCO">CEMENT GẮN MERON- VOCO</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">1.090.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=278" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="278" data-product_sku="" aria-label="Add &ldquo;CEMENT GẮN MERON- VOCO&rdquo; to your cart" rel="nofollow" data-product_name="CEMENT GẮN MERON- VOCO" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-meron-voco-300x300.png&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-meron-voco-300x300.png 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-meron-voco-150x150.png 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-meron-voco-100x100.png 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-meron-voco.png 400w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="1090000" data-product_slug="cement-gan-meron-voco">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/cement-gan-meron-voco/" title="CEMENT GẮN MERON- VOCO">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	</div>
+<div class="clearfix"></div>
+</div>
+<style>
+	a.added_to_cart.wc-forward {
+		display: none;
+	}
+</style></div>                </div>
+            </div>
+            <!-- End Best Seller Slider -->
+        </div>
+    </div>
+</div>
+<div class="main-col">
+    <div class="container">
+        <div class="std">
+            <!-- Best Seller Slider -->
+            <div class="best-seller-pro wow bounceInUp animated animated color-1 animated" style="visibility: visible;">
+                <div class="slider-items-products">
+                    <div class="col-xs-12 col-sm-12 col-md-2 ">
+                        <div class="new_title center color-1">
+                            <h2><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa">Thiết bị nha khoa</a></h2>
+                        </div>
+                        <div class="index-column-2 row-service hidden-xs hidden-sm">
+                            <ul class="links">
+                                <li><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/ghe-nha-khoa/" rel="tag" class="ghe-nha-khoa" title="Ghế nha khoa">Ghế nha khoa</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/may-nen-khi/" rel="tag" class="may-nen-khi" title="Máy nén khí">Máy nén khí</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/may-cao-voi-den-quang-trung-hop/" rel="tag" class="may-cao-voi-den-quang-trung-hop" title="Máy cạo vôi &amp; đèn quang trùng hợp">Máy cạo vôi &amp; đèn quang trùng hợp</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/den-tay-trang/" rel="tag" class="den-tay-trang" title="Đèn tẩy trắng">Đèn tẩy trắng</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/thiet-bi-hap-say-tiet-trung/" rel="tag" class="thiet-bi-hap-say-tiet-trung" title="Thiết bị hấp sấy tiệt trùng">Thiết bị hấp sấy tiệt trùng</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/thiet-bi-noi-nha-hinh-anh/" rel="tag" class="thiet-bi-noi-nha-hinh-anh" title="Thiết bị nội nha;hình ảnh">Thiết bị nội nha;hình ảnh</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/thiet-bi-implant/" rel="tag" class="thiet-bi-implant" title="Thiết bị implant">Thiết bị implant</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/thiet-bi-labo/" rel="tag" class="thiet-bi-labo" title="Thiết bị labo">Thiết bị labo</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/thiet-bi-nha-khoa/thiet-bi-khac-linh-kien-thay-the/" rel="tag" class="thiet-bi-khac-linh-kien-thay-the" title="Thiết bị khác, linh kiện thay thế">Thiết bị khác, linh kiện thay thế</a></li>                            </ul>
+                        </div>
+                    </div>
+                    <div class="woocommerce columns-4 ">
+	<div class="col-md-10 masonry-container" style="position: relative; height: 530px;">
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-suntem-st-d560/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d560-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d560-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d560-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d560-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d560.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-suntem-st-d560/"
+			title="GHẾ NHA KHOA SUNTEM ST-D560">GHẾ NHA KHOA SUNTEM ST-D560</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price">Liên hệ</span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-suntem-st-d560/" data-quantity="1" class="button product_type_simple btn-cart" data-product_id="282" data-product_sku="" aria-label="Read more about &ldquo;GHẾ NHA KHOA SUNTEM ST-D560&rdquo;" rel="nofollow">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-suntem-st-d560/" title="GHẾ NHA KHOA SUNTEM ST-D560">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-suntem-st-d540/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d540-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d540-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d540-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d540-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d540.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-suntem-st-d540/"
+			title="GHẾ NHA KHOA SUNTEM ST-D540">GHẾ NHA KHOA SUNTEM ST-D540</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price">Liên hệ</span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-suntem-st-d540/" data-quantity="1" class="button product_type_simple btn-cart" data-product_id="284" data-product_sku="" aria-label="Read more about &ldquo;GHẾ NHA KHOA SUNTEM ST-D540&rdquo;" rel="nofollow">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-suntem-st-d540/" title="GHẾ NHA KHOA SUNTEM ST-D540">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-suntem-st-d530/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d530-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d530-300x300.png 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d530-150x150.png 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d530-100x100.png 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d530.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-suntem-st-d530/"
+			title="GHẾ NHA KHOA SUNTEM ST-D530">GHẾ NHA KHOA SUNTEM ST-D530</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price">Liên hệ</span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-suntem-st-d530/" data-quantity="1" class="button product_type_simple btn-cart" data-product_id="286" data-product_sku="" aria-label="Read more about &ldquo;GHẾ NHA KHOA SUNTEM ST-D530&rdquo;" rel="nofollow">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-suntem-st-d530/" title="GHẾ NHA KHOA SUNTEM ST-D530">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			
+	<div class="sale-label sale-top-right">Sale!</div>
+	<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-suntem-st-d520/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d520-jpg-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d520-jpg-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d520-jpg-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d520-jpg-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d520-jpg.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-suntem-st-d520/"
+			title="GHẾ NHA KHOA SUNTEM ST-D520">GHẾ NHA KHOA SUNTEM ST-D520</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><del aria-hidden="true"><span class="cart-price"><span class="price">40.000.000&#8363;</span></span></del> <ins><span class="cart-price"><span class="price">36.500.000&#8363;</span></span></ins></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=288" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="288" data-product_sku="" aria-label="Add &ldquo;GHẾ NHA KHOA SUNTEM ST-D520&rdquo; to your cart" rel="nofollow" data-product_name="GHẾ NHA KHOA SUNTEM ST-D520" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d520-jpg-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d520-jpg-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d520-jpg-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d520-jpg-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ghe-nha-khoa-suntem-st-d520-jpg.jpg 400w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="36500000" data-product_slug="ghe-nha-khoa-suntem-st-d520">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-suntem-st-d520/" title="GHẾ NHA KHOA SUNTEM ST-D520">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-kj-917/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/254-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/254-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/254-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/254-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-kj-917/"
+			title="GHẾ NHA KHOA KJ- 917">GHẾ NHA KHOA KJ- 917</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">23.000.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=280" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="280" data-product_sku="" aria-label="Add &ldquo;GHẾ NHA KHOA KJ- 917&rdquo; to your cart" rel="nofollow" data-product_name="GHẾ NHA KHOA KJ- 917" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/254-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/254-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/254-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/254-100x100.jpg 100w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="23000000" data-product_slug="ghe-nha-khoa-kj-917">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/ghe-nha-khoa-kj-917/" title="GHẾ NHA KHOA KJ- 917">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/den-tay-trang-rang-treo-ghe/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-treo-ghe-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-treo-ghe-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-treo-ghe-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-treo-ghe-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-treo-ghe.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/den-tay-trang-rang-treo-ghe/"
+			title="ĐÈN TẨY TRẮNG RĂNG TREO GHẾ">ĐÈN TẨY TRẮNG RĂNG TREO GHẾ</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">2.300.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=292" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="292" data-product_sku="" aria-label="Add &ldquo;ĐÈN TẨY TRẮNG RĂNG TREO GHẾ&rdquo; to your cart" rel="nofollow" data-product_name="ĐÈN TẨY TRẮNG RĂNG TREO GHẾ" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-treo-ghe-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-treo-ghe-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-treo-ghe-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-treo-ghe-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-treo-ghe.jpg 400w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="2300000" data-product_slug="den-tay-trang-rang-treo-ghe">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/den-tay-trang-rang-treo-ghe/" title="ĐÈN TẨY TRẮNG RĂNG TREO GHẾ">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/den-tay-trang-rang-tia-lanh/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/tb2eo6tmfxxxxx0xxxxxxxxxxxx-350596974-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/tb2eo6tmfxxxxx0xxxxxxxxxxxx-350596974-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/tb2eo6tmfxxxxx0xxxxxxxxxxxx-350596974-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/tb2eo6tmfxxxxx0xxxxxxxxxxxx-350596974-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/tb2eo6tmfxxxxx0xxxxxxxxxxxx-350596974.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/den-tay-trang-rang-tia-lanh/"
+			title="ĐÈN TẨY TRẮNG RĂNG TIA LẠNH">ĐÈN TẨY TRẮNG RĂNG TIA LẠNH</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">7.500.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=290" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="290" data-product_sku="" aria-label="Add &ldquo;ĐÈN TẨY TRẮNG RĂNG TIA LẠNH&rdquo; to your cart" rel="nofollow" data-product_name="ĐÈN TẨY TRẮNG RĂNG TIA LẠNH" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/tb2eo6tmfxxxxx0xxxxxxxxxxxx-350596974-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/tb2eo6tmfxxxxx0xxxxxxxxxxxx-350596974-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/tb2eo6tmfxxxxx0xxxxxxxxxxxx-350596974-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/tb2eo6tmfxxxxx0xxxxxxxxxxxx-350596974-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/tb2eo6tmfxxxxx0xxxxxxxxxxxx-350596974.jpg 400w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="7500000" data-product_slug="den-tay-trang-rang-tia-lanh">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/den-tay-trang-rang-tia-lanh/" title="ĐÈN TẨY TRẮNG RĂNG TIA LẠNH">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/den-tay-trang-rang-md666/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-md666-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-md666-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-md666-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-md666-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-md666.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/den-tay-trang-rang-md666/"
+			title="ĐÈN TẨY TRẮNG RĂNG MD666">ĐÈN TẨY TRẮNG RĂNG MD666</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">6.000.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=297" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="297" data-product_sku="" aria-label="Add &ldquo;ĐÈN TẨY TRẮNG RĂNG MD666&rdquo; to your cart" rel="nofollow" data-product_name="ĐÈN TẨY TRẮNG RĂNG MD666" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-md666-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-md666-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-md666-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-md666-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-md666.jpg 400w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="6000000" data-product_slug="den-tay-trang-rang-md666">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/den-tay-trang-rang-md666/" title="ĐÈN TẨY TRẮNG RĂNG MD666">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/den-tay-trang-rang-di-dong/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/den-tay-trang-rang-di-dong/"
+			title="ĐÈN TẨY TRẮNG RĂNG DI ĐỘNG">ĐÈN TẨY TRẮNG RĂNG DI ĐỘNG</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">3.500.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=295" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="295" data-product_sku="" aria-label="Add &ldquo;ĐÈN TẨY TRẮNG RĂNG DI ĐỘNG&rdquo; to your cart" rel="nofollow" data-product_name="ĐÈN TẨY TRẮNG RĂNG DI ĐỘNG" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/den-tay-trang-rang-di-dong.jpg 400w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="3500000" data-product_slug="den-tay-trang-rang-di-dong">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/den-tay-trang-rang-di-dong/" title="ĐÈN TẨY TRẮNG RĂNG DI ĐỘNG">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	</div>
+<div class="clearfix"></div>
+</div>
+<style>
+	a.added_to_cart.wc-forward {
+		display: none;
+	}
+</style></div>                </div>
+            </div>
+            <!-- End Best Seller Slider -->
+        </div>
+    </div>
+</div>
+<div class="main-col">
+    <div class="container">
+        <div class="std">
+            <!-- Best Seller Slider -->
+            <div class="best-seller-pro wow bounceInUp animated animated color-4 animated" style="visibility: visible;">
+                <div class="slider-items-products">
+                    <div class="col-xs-12 col-sm-12 col-md-2 ">
+                        <div class="new_title center color-4">
+                            <h2><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa">Vật tư, dụ cụ nha khoa</a></h2>
+                        </div>
+                        <div class="index-column-2 row-service hidden-xs hidden-sm">
+                            <ul class="links">
+                                <li><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/dung-cu-phong-kham/" rel="tag" class="dung-cu-phong-kham" title="Dụng cụ phòng khám">Dụng cụ phòng khám</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/tay-khoan-mui-khoan-nha-khoa/" rel="tag" class="tay-khoan-mui-khoan-nha-khoa" title="Tay khoan, mũi khoan nha khoa">Tay khoan, mũi khoan nha khoa</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/dung-cu-chinh-nha/" rel="tag" class="dung-cu-chinh-nha" title="Dụng cụ chỉnh nha">Dụng cụ chỉnh nha</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/vat-tu-chinh-nha/" rel="tag" class="vat-tu-chinh-nha" title="Vật tư chỉnh nha">Vật tư chỉnh nha</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/vat-tu-tieu-hao/" rel="tag" class="vat-tu-tieu-hao" title="Vật tư tiêu hao">Vật tư tiêu hao</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/mo-hinh-tu-van/" rel="tag" class="mo-hinh-tu-van" title="Mô hình tư vấn">Mô hình tư vấn</a></li><li><a href="http://localhost:8888/vatlieunhakhoa/product-category/vat-tu-dung-cu-nha-khoa/vat-tu-labo/" rel="tag" class="vat-tu-labo" title="Vật tư labo">Vật tư labo</a></li>                            </ul>
+                        </div>
+                    </div>
+                    <div class="woocommerce columns-4 ">
+	<div class="col-md-10 masonry-container" style="position: relative; height: 530px;">
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/thia-lay-dau-tuong-quan-tam/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/khay-lay-dau-tuong-quan-tam-3-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/khay-lay-dau-tuong-quan-tam-3-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/khay-lay-dau-tuong-quan-tam-3-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/khay-lay-dau-tuong-quan-tam-3-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/khay-lay-dau-tuong-quan-tam-3.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/thia-lay-dau-tuong-quan-tam/"
+			title="THÌA LẤY DẤU TƯƠNG QUAN TÂM">THÌA LẤY DẤU TƯƠNG QUAN TÂM</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price">Liên hệ</span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="http://localhost:8888/vatlieunhakhoa/product/thia-lay-dau-tuong-quan-tam/" data-quantity="1" class="button product_type_simple btn-cart" data-product_id="314" data-product_sku="" aria-label="Read more about &ldquo;THÌA LẤY DẤU TƯƠNG QUAN TÂM&rdquo;" rel="nofollow">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/thia-lay-dau-tuong-quan-tam/" title="THÌA LẤY DẤU TƯƠNG QUAN TÂM">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/ly-nhua-dung-1-lan-220ml/" class="grid-product__link"><img width="215" height="215" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ly-nhua-220ml-1-cay-50-cai.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ly-nhua-220ml-1-cay-50-cai.jpg 215w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ly-nhua-220ml-1-cay-50-cai-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ly-nhua-220ml-1-cay-50-cai-100x100.jpg 100w" sizes="(max-width: 215px) 100vw, 215px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/ly-nhua-dung-1-lan-220ml/"
+			title="Ly Nhựa Dùng 1 Lần 220ml">Ly Nhựa Dùng 1 Lần 220ml</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">15.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=308" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="308" data-product_sku="" aria-label="Add &ldquo;Ly Nhựa Dùng 1 Lần 220ml&rdquo; to your cart" rel="nofollow" data-product_name="Ly Nhựa Dùng 1 Lần 220ml" data-product_image="&lt;img width=&quot;215&quot; height=&quot;215&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ly-nhua-220ml-1-cay-50-cai.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ly-nhua-220ml-1-cay-50-cai.jpg 215w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ly-nhua-220ml-1-cay-50-cai-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ly-nhua-220ml-1-cay-50-cai-100x100.jpg 100w&quot; sizes=&quot;(max-width: 215px) 100vw, 215px&quot; /&gt;" data-product_price="15000" data-product_slug="ly-nhua-dung-1-lan-220ml">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/ly-nhua-dung-1-lan-220ml/" title="Ly Nhựa Dùng 1 Lần 220ml">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			
+	<div class="sale-label sale-top-right">Sale!</div>
+	<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/kinh-che-mat-kinh-bao-ve-cotisen-face-shield-with-frame/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kinh-bao-ho-nha-khoa-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kinh-bao-ho-nha-khoa-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kinh-bao-ho-nha-khoa-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kinh-bao-ho-nha-khoa-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kinh-bao-ho-nha-khoa.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/kinh-che-mat-kinh-bao-ve-cotisen-face-shield-with-frame/"
+			title="KÍNH CHE MẶT( KÍNH BẢO VỆ) COTISEN- Face Shield With Frame">KÍNH CHE MẶT( KÍNH BẢO VỆ) COTISEN- Face Shield With Frame</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><del aria-hidden="true"><span class="cart-price"><span class="price">199.000&#8363;</span></span></del> <ins><span class="cart-price"><span class="price">170.000&#8363;</span></span></ins></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=320" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="320" data-product_sku="" aria-label="Add &ldquo;KÍNH CHE MẶT( KÍNH BẢO VỆ) COTISEN- Face Shield With Frame&rdquo; to your cart" rel="nofollow" data-product_name="KÍNH CHE MẶT( KÍNH BẢO VỆ) COTISEN- Face Shield With Frame" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kinh-bao-ho-nha-khoa-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kinh-bao-ho-nha-khoa-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kinh-bao-ho-nha-khoa-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kinh-bao-ho-nha-khoa-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kinh-bao-ho-nha-khoa.jpg 450w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="170000" data-product_slug="kinh-che-mat-kinh-bao-ve-cotisen-face-shield-with-frame">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/kinh-che-mat-kinh-bao-ve-cotisen-face-shield-with-frame/" title="KÍNH CHE MẶT( KÍNH BẢO VỆ) COTISEN- Face Shield With Frame">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/kim-tiem-vinahankook/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kim-tiem-nhua-vinahankook1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kim-tiem-nhua-vinahankook1-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kim-tiem-nhua-vinahankook1-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kim-tiem-nhua-vinahankook1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/kim-tiem-vinahankook/"
+			title="KIM TIÊM VINAHANKOOK">KIM TIÊM VINAHANKOOK</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">80.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=324" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="324" data-product_sku="" aria-label="Add &ldquo;KIM TIÊM VINAHANKOOK&rdquo; to your cart" rel="nofollow" data-product_name="KIM TIÊM VINAHANKOOK" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kim-tiem-nhua-vinahankook1-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kim-tiem-nhua-vinahankook1-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kim-tiem-nhua-vinahankook1-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kim-tiem-nhua-vinahankook1-100x100.jpg 100w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="80000" data-product_slug="kim-tiem-vinahankook">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/kim-tiem-vinahankook/" title="KIM TIÊM VINAHANKOOK">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			
+	<div class="sale-label sale-top-right">Sale!</div>
+	<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/keo-dan-ham-gia-fixodent-hang-chinh-hang-hop-68g/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/keo-dan-ham-fixodent-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/keo-dan-ham-fixodent-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/keo-dan-ham-fixodent-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/keo-dan-ham-fixodent-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/keo-dan-ham-fixodent.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/keo-dan-ham-gia-fixodent-hang-chinh-hang-hop-68g/"
+			title="Keo Dán Hàm Giả Fixodent ( Hàng Chính Hãng)- Hộp 68g">Keo Dán Hàm Giả Fixodent ( Hàng Chính Hãng)- Hộp 68g</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><del aria-hidden="true"><span class="cart-price"><span class="price">120.000&#8363;</span></span></del> <ins><span class="cart-price"><span class="price">105.000&#8363;</span></span></ins></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=310" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="310" data-product_sku="" aria-label="Add &ldquo;Keo Dán Hàm Giả Fixodent ( Hàng Chính Hãng)- Hộp 68g&rdquo; to your cart" rel="nofollow" data-product_name="Keo Dán Hàm Giả Fixodent ( Hàng Chính Hãng)- Hộp 68g" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/keo-dan-ham-fixodent-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/keo-dan-ham-fixodent-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/keo-dan-ham-fixodent-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/keo-dan-ham-fixodent-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/keo-dan-ham-fixodent.jpg 480w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="105000" data-product_slug="keo-dan-ham-gia-fixodent-hang-chinh-hang-hop-68g">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/keo-dan-ham-gia-fixodent-hang-chinh-hang-hop-68g/" title="Keo Dán Hàm Giả Fixodent ( Hàng Chính Hãng)- Hộp 68g">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/kem-danh-rang-cho-rang-nieng-chinh-nha-ortho-kin-75-ml-tuyp/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kem-danh-rang-cho-rang-nieng-chinh-nha-ortho-kin-75-ml-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kem-danh-rang-cho-rang-nieng-chinh-nha-ortho-kin-75-ml-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kem-danh-rang-cho-rang-nieng-chinh-nha-ortho-kin-75-ml-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kem-danh-rang-cho-rang-nieng-chinh-nha-ortho-kin-75-ml-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kem-danh-rang-cho-rang-nieng-chinh-nha-ortho-kin-75-ml.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/kem-danh-rang-cho-rang-nieng-chinh-nha-ortho-kin-75-ml-tuyp/"
+			title="Kem Đánh Răng Cho Răng Niềng ( Chỉnh Nha) ORTHO KIN 75 Ml &#8211; Tuýp">Kem Đánh Răng Cho Răng Niềng ( Chỉnh Nha) ORTHO KIN 75 Ml &#8211; Tuýp</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">130.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=312" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="312" data-product_sku="" aria-label="Add &ldquo;Kem Đánh Răng Cho Răng Niềng ( Chỉnh Nha) ORTHO KIN 75 Ml - Tuýp&rdquo; to your cart" rel="nofollow" data-product_name="Kem Đánh Răng Cho Răng Niềng ( Chỉnh Nha) ORTHO KIN 75 Ml - Tuýp" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kem-danh-rang-cho-rang-nieng-chinh-nha-ortho-kin-75-ml-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kem-danh-rang-cho-rang-nieng-chinh-nha-ortho-kin-75-ml-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kem-danh-rang-cho-rang-nieng-chinh-nha-ortho-kin-75-ml-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kem-danh-rang-cho-rang-nieng-chinh-nha-ortho-kin-75-ml-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kem-danh-rang-cho-rang-nieng-chinh-nha-ortho-kin-75-ml.jpg 480w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="130000" data-product_slug="kem-danh-rang-cho-rang-nieng-chinh-nha-ortho-kin-75-ml-tuyp">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/kem-danh-rang-cho-rang-nieng-chinh-nha-ortho-kin-75-ml-tuyp/" title="Kem Đánh Răng Cho Răng Niềng ( Chỉnh Nha) ORTHO KIN 75 Ml &#8211; Tuýp">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/gang-tay-phau-thuat-tiet-trung-cap/" class="grid-product__link"><img width="300" height="227" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/gang-tay-phau-thuat-tiet-trung-300x227.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/gang-tay-phau-thuat-tiet-trung-cap/"
+			title="Găng Tay Phẫu Thuật Tiệt Trùng &#8211; Cặp">Găng Tay Phẫu Thuật Tiệt Trùng &#8211; Cặp</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><span class="cart-price"><span class="price">9.000&#8363;</span></span></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="http://localhost:8888/vatlieunhakhoa/product/gang-tay-phau-thuat-tiet-trung-cap/" data-quantity="1" class="button product_type_variable add_to_cart_button btn-cart" data-product_id="299" data-product_sku="" aria-label="Select options for &ldquo;Găng Tay Phẫu Thuật Tiệt Trùng - Cặp&rdquo;" rel="nofollow">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/gang-tay-phau-thuat-tiet-trung-cap/" title="Găng Tay Phẫu Thuật Tiệt Trùng &#8211; Cặp">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			
+	<div class="sale-label sale-top-right">Sale!</div>
+	<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/dau-tay-xit-nha-khoa-dung-1-lan-dental-air-water-syringe-tips/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/voi-xit-nha-khoa-1-lan-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/voi-xit-nha-khoa-1-lan-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/voi-xit-nha-khoa-1-lan-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/voi-xit-nha-khoa-1-lan-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/voi-xit-nha-khoa-1-lan.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/dau-tay-xit-nha-khoa-dung-1-lan-dental-air-water-syringe-tips/"
+			title="ĐẦU TAY XỊT NHA KHOA DÙNG 1 LẦN( Dental Air Water Syringe Tips)">ĐẦU TAY XỊT NHA KHOA DÙNG 1 LẦN( Dental Air Water Syringe Tips)</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><del aria-hidden="true"><span class="cart-price"><span class="price">250.000&#8363;</span></span></del> <ins><span class="cart-price"><span class="price">199.000&#8363;</span></span></ins></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=322" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="322" data-product_sku="" aria-label="Add &ldquo;ĐẦU TAY XỊT NHA KHOA DÙNG 1 LẦN( Dental Air Water Syringe Tips)&rdquo; to your cart" rel="nofollow" data-product_name="ĐẦU TAY XỊT NHA KHOA DÙNG 1 LẦN( Dental Air Water Syringe Tips)" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/voi-xit-nha-khoa-1-lan-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/voi-xit-nha-khoa-1-lan-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/voi-xit-nha-khoa-1-lan-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/voi-xit-nha-khoa-1-lan-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/voi-xit-nha-khoa-1-lan.jpg 450w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="199000" data-product_slug="dau-tay-xit-nha-khoa-dung-1-lan-dental-air-water-syringe-tips">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/dau-tay-xit-nha-khoa-dung-1-lan-dental-air-water-syringe-tips/" title="ĐẦU TAY XỊT NHA KHOA DÙNG 1 LẦN( Dental Air Water Syringe Tips)">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			
+	<div class="sale-label sale-top-right">Sale!</div>
+	<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/cuc-can-nha-khoa-cotisen-mouth-prop/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-1-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-1-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-1-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-1.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/cuc-can-nha-khoa-cotisen-mouth-prop/"
+			title="CỤC CẮN NHA KHOA COTISEN- MOUTH PROP">CỤC CẮN NHA KHOA COTISEN- MOUTH PROP</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><del aria-hidden="true"><span class="cart-price"><span class="price">35.000&#8363;</span></span></del> <ins><span class="cart-price"><span class="price">30.000&#8363;</span></span></ins></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=318" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="318" data-product_sku="" aria-label="Add &ldquo;CỤC CẮN NHA KHOA COTISEN- MOUTH PROP&rdquo; to your cart" rel="nofollow" data-product_name="CỤC CẮN NHA KHOA COTISEN- MOUTH PROP" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-1-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-1-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-1-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-1-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-1.jpg 450w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="30000" data-product_slug="cuc-can-nha-khoa-cotisen-mouth-prop">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/cuc-can-nha-khoa-cotisen-mouth-prop/" title="CỤC CẮN NHA KHOA COTISEN- MOUTH PROP">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-3 col-sp col-xs-12 col-sm-4 display-pt10 item">
+	<div class="col-item">
+		<div class="item-inner">
+			
+	<div class="sale-label sale-top-right">Sale!</div>
+	<div class="product-wrapper"><div class="thumb-wrapper"><a class="img-fix" href="http://localhost:8888/vatlieunhakhoa/product/cuc-can-nha-khoa-cotisen-co-chan-luoi-mouth-prop-tongue-guard/" class="grid-product__link"><img width="300" height="300" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-co-chan-luoi-10-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-co-chan-luoi-10-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-co-chan-luoi-10-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-co-chan-luoi-10-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-co-chan-luoi-10.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a></div></div>			<div class="item-info">
+				<div class="info-inner">
+					<div class="item-title"> <a
+			href="http://localhost:8888/vatlieunhakhoa/product/cuc-can-nha-khoa-cotisen-co-chan-luoi-mouth-prop-tongue-guard/"
+			title="CỤC CẮN NHA KHOA COTISEN CÓ CHẶN LƯỠI (Mouth Prop Tongue Guard)">CỤC CẮN NHA KHOA COTISEN CÓ CHẶN LƯỠI (Mouth Prop Tongue Guard)</a></div>
+	<div class="item-content">
+		<div class="item-price">
+			<div class="price-box">
+				<span class="price"><del aria-hidden="true"><span class="cart-price"><span class="price">160.000&#8363;</span></span></del> <ins><span class="cart-price"><span class="price">150.000&#8363;</span></span></ins></span>
+			</div>
+		</div>
+	</div>
+				</div>
+				<div class="actions">
+					<form>
+						<a href="?add-to-cart=316" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart btn-cart" data-product_id="316" data-product_sku="" aria-label="Add &ldquo;CỤC CẮN NHA KHOA COTISEN CÓ CHẶN LƯỠI (Mouth Prop Tongue Guard)&rdquo; to your cart" rel="nofollow" data-product_name="CỤC CẮN NHA KHOA COTISEN CÓ CHẶN LƯỠI (Mouth Prop Tongue Guard)" data-product_image="&lt;img width=&quot;300&quot; height=&quot;300&quot; src=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-co-chan-luoi-10-300x300.jpg&quot; class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-co-chan-luoi-10-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-co-chan-luoi-10-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-co-chan-luoi-10-100x100.jpg 100w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cuc-can-nha-khoa-cotisen-co-chan-luoi-10.jpg 450w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;" data-product_price="150000" data-product_slug="cuc-can-nha-khoa-cotisen-co-chan-luoi-mouth-prop-tongue-guard">Mua hàng</a>					</form>
+					<div class="eye-product">
+						<a href="http://localhost:8888/vatlieunhakhoa/product/cuc-can-nha-khoa-cotisen-co-chan-luoi-mouth-prop-tongue-guard/" title="CỤC CẮN NHA KHOA COTISEN CÓ CHẶN LƯỠI (Mouth Prop Tongue Guard)">
+							<img class="eye-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/eye.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	</div>
+<div class="clearfix"></div>
+</div>
+<style>
+	a.added_to_cart.wc-forward {
+		display: none;
+	}
+</style></div>                </div>
+            </div>
+            <!-- End Best Seller Slider -->
+        </div>
+    </div>
+</div>
+
+<div class="promo-banner-section wow bounceInUp animated visible-lg" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+    <div class="container">
+        <a href="/#"><img class="responsive-img" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/long-banner.jpg" alt="Tên banner lớn" title="Tên banner lớn"></a>
+    </div>
+</div>
+<section class="latest-blog wow bounceInDown animated" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+    <div class="container">
+        <div class="blog-title">
+            <h2>Bài viết mới</h2>
+        </div>
+        <div class="row">
+                                    <div class="col-xs-12 col-sm-4">
+                            <article class="blog_entry clearfix wow bounceInLeft animated" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                                <div class="entry-content">
+                                    <div class="featured-thumb">
+                                        <a href="http://localhost:8888/vatlieunhakhoa/3-buoc-de-su-dung-bang-so-mau-rang-vita-3d-vita-3d-master/">
+                                            
+			<a class="post-thumbnail" href="http://localhost:8888/vatlieunhakhoa/3-buoc-de-su-dung-bang-so-mau-rang-vita-3d-vita-3d-master/" aria-hidden="true" tabindex="-1">
+				<img width="480" height="307" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/7.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="3 BƯỚC ĐỂ SỬ DỤNG BẢNG SO MÀU RĂNG VITA 3D( VITA 3D MASTER)" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/7.jpg 480w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/7-300x192.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" />			</a>
+
+			                                        </a>
+                                    </div>
+                                    <header class="blog_entry-header clearfix">
+                                        <div class="blog_entry-header-inner">
+                                            <h3 class="blog_entry-title"> <a rel="bookmark" href="http://localhost:8888/vatlieunhakhoa/3-buoc-de-su-dung-bang-so-mau-rang-vita-3d-vita-3d-master/">3 BƯỚC ĐỂ SỬ DỤNG BẢNG SO MÀU RĂNG VITA 3D( VITA 3D MASTER)</a> </h3>
+                                        </div>
+                                        <!--blog_entry-header-inner-->
+                                    </header>
+                                    <div class="entry-content-small content-small">
+                                        1. Tập trung vào nơi tiếp xúc giữa răng và nướu
+                                        Đây là lời khuyên quan trọng nhất mà nha sĩ ...
+                                    </div>
+                                    <div class="post-date"><i class="fa fa-clock-o" aria-hidden="true"></i> May 17, 2021 <i class="fa fa-comments-o" aria-hidden="true"></i> 0 bình luận</div>
+                                </div>
+                                <a href="http://localhost:8888/vatlieunhakhoa/3-buoc-de-su-dung-bang-so-mau-rang-vita-3d-vita-3d-master/" class="link-article"><i class="fa fa-caret-right" style="margin-right: 3px;"></i>Đọc
+                                    Tiếp</a>
+                            </article>
+                        </div>
+                                        <div class="col-xs-12 col-sm-4">
+                            <article class="blog_entry clearfix wow bounceInLeft animated" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                                <div class="entry-content">
+                                    <div class="featured-thumb">
+                                        <a href="http://localhost:8888/vatlieunhakhoa/may-quet-phim-phosphor-fussen-may-chuan-doan-hinh-anh-nha-khoa/">
+                                            
+			<a class="post-thumbnail" href="http://localhost:8888/vatlieunhakhoa/may-quet-phim-phosphor-fussen-may-chuan-doan-hinh-anh-nha-khoa/" aria-hidden="true" tabindex="-1">
+				<img width="480" height="480" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/mua-may-quet-phim-phosphor-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="MÁY QUÉT PHIM PHOSPHOR FUSSEN- MÁY CHUẨN ĐOÁN HÌNH ẢNH NHA KHOA" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/mua-may-quet-phim-phosphor-1.jpg 480w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/mua-may-quet-phim-phosphor-1-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/mua-may-quet-phim-phosphor-1-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/mua-may-quet-phim-phosphor-1-100x100.jpg 100w" sizes="(max-width: 480px) 100vw, 480px" />			</a>
+
+			                                        </a>
+                                    </div>
+                                    <header class="blog_entry-header clearfix">
+                                        <div class="blog_entry-header-inner">
+                                            <h3 class="blog_entry-title"> <a rel="bookmark" href="http://localhost:8888/vatlieunhakhoa/may-quet-phim-phosphor-fussen-may-chuan-doan-hinh-anh-nha-khoa/">MÁY QUÉT PHIM PHOSPHOR FUSSEN- MÁY CHUẨN ĐOÁN HÌNH ẢNH NHA KHOA</a> </h3>
+                                        </div>
+                                        <!--blog_entry-header-inner-->
+                                    </header>
+                                    <div class="entry-content-small content-small">
+                                        1. Tập trung vào nơi tiếp xúc giữa răng và nướu
+                                        Đây là lời khuyên quan trọng nhất mà nha sĩ ...
+                                    </div>
+                                    <div class="post-date"><i class="fa fa-clock-o" aria-hidden="true"></i> May 17, 2021 <i class="fa fa-comments-o" aria-hidden="true"></i> 0 bình luận</div>
+                                </div>
+                                <a href="http://localhost:8888/vatlieunhakhoa/may-quet-phim-phosphor-fussen-may-chuan-doan-hinh-anh-nha-khoa/" class="link-article"><i class="fa fa-caret-right" style="margin-right: 3px;"></i>Đọc
+                                    Tiếp</a>
+                            </article>
+                        </div>
+                                        <div class="col-xs-12 col-sm-4">
+                            <article class="blog_entry clearfix wow bounceInLeft animated" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                                <div class="entry-content">
+                                    <div class="featured-thumb">
+                                        <a href="http://localhost:8888/vatlieunhakhoa/5-li-do-vi-sao-ban-nen-mua-may-quet-phim-phosphor-fussen/">
+                                            
+			<a class="post-thumbnail" href="http://localhost:8888/vatlieunhakhoa/5-li-do-vi-sao-ban-nen-mua-may-quet-phim-phosphor-fussen/" aria-hidden="true" tabindex="-1">
+				<img width="480" height="360" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/5-li-do-mua-scan-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="5 LÍ DO VÌ SAO BẠN NÊN MUA MÁY QUÉT PHIM PHOSPHOR FUSSEN" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/5-li-do-mua-scan-1.jpg 480w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/5-li-do-mua-scan-1-300x225.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" />			</a>
+
+			                                        </a>
+                                    </div>
+                                    <header class="blog_entry-header clearfix">
+                                        <div class="blog_entry-header-inner">
+                                            <h3 class="blog_entry-title"> <a rel="bookmark" href="http://localhost:8888/vatlieunhakhoa/5-li-do-vi-sao-ban-nen-mua-may-quet-phim-phosphor-fussen/">5 LÍ DO VÌ SAO BẠN NÊN MUA MÁY QUÉT PHIM PHOSPHOR FUSSEN</a> </h3>
+                                        </div>
+                                        <!--blog_entry-header-inner-->
+                                    </header>
+                                    <div class="entry-content-small content-small">
+                                        1. Tập trung vào nơi tiếp xúc giữa răng và nướu
+                                        Đây là lời khuyên quan trọng nhất mà nha sĩ ...
+                                    </div>
+                                    <div class="post-date"><i class="fa fa-clock-o" aria-hidden="true"></i> May 17, 2021 <i class="fa fa-comments-o" aria-hidden="true"></i> 0 bình luận</div>
+                                </div>
+                                <a href="http://localhost:8888/vatlieunhakhoa/5-li-do-vi-sao-ban-nen-mua-may-quet-phim-phosphor-fussen/" class="link-article"><i class="fa fa-caret-right" style="margin-right: 3px;"></i>Đọc
+                                    Tiếp</a>
+                            </article>
+                        </div>
+                                    </div>
+    </div>
+</section>
+<style>
+    .latest-blog .blog_entry-title {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+    }
+</style>
+<div class="pr-module-box" style="border-color: rgb(255, 255, 255); background-color: rgb(249, 249, 249);">
+    <div class="pr-module-title" style="color: rgb(0, 0, 0); text-align: center; font-weight: bold; font-style: normal; font-size: 15px;">SẢN
+        PHẨM ĐÃ XEM</div>
+    <div class="pr-slide-wrap">
+        <ul class="pr-list-product-slide">
+            <!-- <li class="pr-product-element" style="width: 20%;">
+                    <a class="pr-link" href="http://localhost:8888/vatlieunhakhoa//products/chat-han-tam-ceivitron-recodent?prsource=recently">
+                        <div class="pr-image">
+                            <img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/chat-han-tam-ceivitron-recodent(1).jpg">
+                        </div>
+                        <div class="pr-name" style="color: rgb(0, 0, 0);">Chất trám tạm Ceivitron - Hộp 30g</div>
+                        <div class="pr-price money" style="color: rgb(255, 102, 0);">90.000₫</div>
+                    </a>
+                </li> -->
+        </ul>
+    </div>
+    <div class="pr-slide" style="display: none;">
+    </div>
+</div>
+
+
+<footer>
+    <div class="brand-logo hidden-xs hidden-sm">
+        <div class="container">
+            <div class="row-carousel">
+                <div class="owl-carousel owl-loaded owl-drag">
+                    <div class="item"> <a href="http://www.jinmedental.com/en/index.html"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/brand4.png" title="Brand 4" alt="Brand 4"></a> </div>
+                    <div class="item"> <a href="http://www.3m.com/3M/en_US/dental-us/"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/brand5.png" title="Brand 5" alt="Brand 5"></a> </div>
+                    <div class="item"> <a href="https://www.dentsply.com/en-aa"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/brand6.png" title="Brand 6" alt="Brand 6"></a> </div>
+                    <div class="item"> <a href="http://www.microdont.net/"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/brand7.png" title="Brand 7" alt="Brand 7"></a> </div>
+                    <div class="item"> <a href="http://www.coxotec.com/en/"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/brand8.png" title="Brand 8" alt="Brand 8"></a> </div>
+                    <div class="item"> <a href="http://www.voco.com/en/home/index.html"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/brand9.png" title="Brand 9" alt="Brand 9"></a> </div>
+                    <div class="item"> <a href="http://www.glwoodpecker.com/"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/brand1.png" title="Brand 1" alt="Brand 1"></a> </div>
+                    <div class="item"> <a href="http://www.orjortho.com/"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/brand2.png" title="Brand 2" alt="Brand 2"></a> </div>
+                    <div class="item"> <a href="http://www.denjoy.cn/"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/brand3.png" title="Brand 3" alt="Brand 3"></a> </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="newsletter-wrap">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-8">
+                    <div class="newsletter">
+                        <form id="contact">
+                            <input name="FormType" type="hidden" value="contact">
+                            <input type="text" class="form-control hidden" name="contact[phone]" value="NaN" placeholder="Phone number">
+                            <textarea id="message" name="contact[Body]" style="height: 120px;" class="form-control hidden" rows="7">Subcribe Email</textarea>
+                            <h3 class="title">ĐĂNG KÝ ĐỂ NHẬN KHUYẾN MẠI</h3>
+                            <div class="khuyen-mai">
+                                <input type="email" id="newsletter1" class="input-text" name="contact[email]" placeholder="Đăng ký để  nhận tin" value="">
+                                <button type="submit" title="Đăng ký" class="subscribe"><span>Đăng
+                                        ký</span></button>
+                            </div>
+                        </form>
+                        <style>
+                            .errors {
+                                float: left;
+                                width: 100%;
+                                text-align: center;
+                            }
+
+                            .alert-success {
+                                width: 100%;
+                                display: inline-block;
+                                text-align: center;
+                            }
+                        </style>
+                    </div>
+                    <!--newsletter-->
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4">
+                    <div class="inner">
+                        <div class="">
+                            <div class="social pull-right">
+                                <h3 class="title">Follow us</h3>
+                                <ul class="link">
+                                    <li class="fb pull-left"><a href="https://www.facebook.com/V%E1%BA%ADt-li%E1%BB%87u-thi%E1%BA%BFt-b%E1%BB%8B-nha-khoa-Th%C4%83ng-Long-378522735853903/"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/facebook-logo-button.png" atl=""></a></li>
+                                    <li class="tw pull-left"><a href="http://localhost:8888/vatlieunhakhoa//#"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/twitter-logo-button.png" atl=""></a></li>
+                                    <li class="googleplus pull-left"><a href="http://localhost:8888/vatlieunhakhoa//#"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/google-plus-logo-button.png" atl=""></a></li>
+                                    <li class="rss pull-left"><a href="http://localhost:8888/vatlieunhakhoa//#"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/rss.png" atl=""></a></li>
+                                    <li class="youtube pull-left"><a href="https://www.youtube.com/channel/UCZ_ELFRcyceKWAHwWXgLIYg"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/youtube-logotype.png" atl=""></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-inner">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-6 col-sm-3 col-md-2 fix-mobile5">
+                    <div class="footer-column pull-left">
+                        <h4>Về chúng tôi</h4>
+                        <li id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-sidebar-about-us-container"><ul id="menu-sidebar-about-us" class="menu"><li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="http://localhost:8888/vatlieunhakhoa/gioi-thieu/">Giới thiệu</a></li>
+<li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="http://localhost:8888/vatlieunhakhoa/thu-vien/">Thư viện</a></li>
+<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a href="http://localhost:8888/vatlieunhakhoa/tin-tuc/">Tin tức</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="http://localhost:8888/vatlieunhakhoa/lien-he/">Liên hệ</a></li>
+</ul></div></li>
+                    </div>
+                </div>
+                <div class="col-xs-6 col-sm-3 col-md-2 fix-mobile5">
+                    <div class="footer-column pull-left">
+                        <h4>Hướng dẫn</h4>
+                        <li id="nav_menu-4" class="widget widget_nav_menu"><div class="menu-sidebar-tutorial-container"><ul id="menu-sidebar-tutorial" class="menu"><li id="menu-item-136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136"><a href="/my-acount">Đăng ký thành viên</a></li>
+<li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="http://localhost:8888/vatlieunhakhoa/huong-dan-mua-hang/">Hướng dẫn mua hàng</a></li>
+<li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="http://localhost:8888/vatlieunhakhoa/huong-dan-van-chuyen-va-giao-hang/">Hướng dẫn vận chuyển và giao hàng</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://localhost:8888/vatlieunhakhoa/huong-dan-thanh-toan/">Hướng dẫn thanh toán</a></li>
+</ul></div></li>
+                    </div>
+                </div>
+                <div class="col-xs-6 col-sm-3 col-md-2 fix-mobile5">
+                    <div class="footer-column pull-left">
+                        <h4>Thông tin</h4>
+                        <li id="nav_menu-5" class="widget widget_nav_menu"><div class="menu-sidebar-imformation-container"><ul id="menu-sidebar-imformation" class="menu"><li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-61 current_page_item menu-item-137"><a href="http://localhost:8888/vatlieunhakhoa/" aria-current="page">Trang chủ</a></li>
+<li id="menu-item-138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138"><a href="http://localhost:8888/vatlieunhakhoa/gioi-thieu/">Giới thiệu</a></li>
+<li id="menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140"><a href="http://localhost:8888/vatlieunhakhoa/shop/">Shop</a></li>
+<li id="menu-item-141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141"><a href="http://localhost:8888/vatlieunhakhoa/tin-tuc/">Tin tức</a></li>
+<li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="http://localhost:8888/vatlieunhakhoa/lien-he/">Liên hệ</a></li>
+</ul></div></li>
+                    </div>
+                </div>
+                <div class="col-xs-6 col-sm-3 col-md-2 fix-mobile5">
+                    <div class="footer-column pull-left">
+                        <h4>Chính sách</h4>
+                        <li id="nav_menu-6" class="widget widget_nav_menu"><div class="menu-sidebar-police-container"><ul id="menu-sidebar-police" class="menu"><li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="http://localhost:8888/vatlieunhakhoa/chinh-sach-bao-hanh/">Chính sách bảo hành</a></li>
+<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="http://localhost:8888/vatlieunhakhoa/chinh-sach-di-tra/">Chính sách đổi trả</a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="http://localhost:8888/vatlieunhakhoa/chinh-sach/">chính sách thanh toán</a></li>
+<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="http://localhost:8888/vatlieunhakhoa/chinh-sach/">chính sách vận chuyển</a></li>
+</ul></div></li>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="footer-column-last pull-left">
+                        <h4>Liên hệ</h4>
+                        <p><b>Vật liệu nha khoa</b></p>
+                        <p><i class="fa fa-map-marker"></i><span>128c Đại La, Hai Bà Trưng, Hà Nội</span></p>
+                        <p><i class="fa fa-phone"></i><span>077.9192.888</span></p>
+                        <p><i class="fa fa-envelope"></i><span>vatlieunhakhoathanglong@gmail.com</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-center-2 clearfix">
+            <!-- SP Custom Html -->
+            <div class="footer-2 hidden-xs">
+                <div>
+                    <div class="menu-bottom">
+                        <ul>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="coppyright">© Bản quyền thuộc về Vật liệu nha khoa | Cung cấp
+                        bởi Sapo</div>
+                    <div class="payment-accept">
+                        <div>
+                            <img class="first" src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/payments-1.png" alt="payments-1">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<a href="tel:077.9192.888" class="suntory-alo-phone suntory-alo-green" id="suntory-alo-phoneIcon" style="left: 0px; bottom: 0px;">
+    <div class="suntory-alo-ph-circle"></div>
+    <div class="suntory-alo-ph-circle-fill"></div>
+    <div class="suntory-alo-ph-img-circle"><i class="fa fa-phone"></i></div>
+</a>
+
+<script src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/js/jquery.lib.js"></script>
+<script src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/js/imagesLoaded.js" type="text/javascript"></script>
+<script src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/js/masonry.js" type="text/javascript"></script>
+<script src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/js/common.js" type="text/javascript"></script>
+<script src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/js/jquery.flexslider.js" type="text/javascript"></script>
+<script src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/js/cloud-zoom.js" type="text/javascript"></script>
+<script src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/js/owl.carousel.min.js" type="text/javascript"></script>
+<script src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/js/parallax.js" type="text/javascript"></script>
+<script src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/js/jgrowl.js" type="text/javascript"></script>
+<script src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/js/cs.script.js" type="text/javascript"></script>
+<script src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/js/bootstrap-notify.min.js" type="text/javascript"></script>
+<!-- <script src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/js/api.jquery.js" type="text/javascript"></script> -->
+<!--- <script src="//bizweb.dktcdn.net/100/179/898/themes/237410/assets/time-countdown.js" type="text/javascript"></script> -->
+<script src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/js/jquery.countdown.min.js" type="text/javascript"></script>
+
+
+<a href="/#" id="toTop" style="display: block;"><span id="toTopHover"></span><span id="toTopHover" style="opacity: 0.7;"></span></a>
+<script type="text/javascript">
+    $('.owl-carousel').owlCarousel({
+        loop: true,
+        margin: 0,
+        nav: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            600: {
+                items: 3
+            },
+            1000: {
+                items: 6
+            }
+        }
+    });
+    $(".owl-prev").html('<i class="fa fa-caret-left" aria-hidden="true"></i>');
+    $(".owl-next").html('<i class="fa fa-caret-right" aria-hidden="true"></i>');
+
+    $('[data-countdown]').each(function() {
+        var $this = $(this),
+            finalDate = $(this).data('countdown');
+        $this.countdown(finalDate, function(event) {
+            $this.html(event.strftime('<div><span class="days">%D</div><span class="clocks">:</span><div><span class="hours ">%H</span></div><span class="clocks">:</span><div><span class="minutes ">%M</span></div><span class="clocks">:</span><div><span class="seconds">%S</span></div>'));
+        });
+    });
+
+
+    //Masonry
+    (function($) {
+        var $container = $('.masonry-container');
+        $container.imagesLoaded(function() {
+            $container.masonry({
+                columnWidth: '.item',
+                itemSelector: '.item'
+            });
+        });
+    })(jQuery);
+</script>
+
+<script>
+    $(document).ready(function() {
+        $('ul.links > li > a').click(function() {
+            $(this).next('ul').slideToggle('slow');
+        });
+    });
+</script>
+<script type="text/javascript">
+    $('ul#nav > li.test1').prepend(
+        '<div class="menu-img-icon"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/hot-icon.png" alt=""></div>'
+    );
+
+    $('ul#nav > li.test2').prepend(
+        '<div class="menu-img-icon"><img src="http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/libs/imgs/new-icon.png" alt=""></div>'
+    );
+</script>
+
+<div data-wzb="SocialMobileTool" data-disabled="false">
+    <div class="ztb-scb-wrapper" style="opacity: 1; bottom: 0px;">
+        <div class="zbx-trigger ztb-smt-left"></div>
+        <div class="zbx-trigger ztb-smt-right"><a id="ztb_facebook_messenger_309081" widget-id="309081" monitor-id="5N8DWS2w" href="javascript:Zotabox.getWidgetById(309081).showChatBox(true);" target="_parent" data-attr="facebook_messenger_309081" style="background-color: #4e69a2"><i style="color: #fff" class="zb-icon icon-facebook-2-icon"></i></a></div>
+    </div>
+</div>
+				<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+				<script type="text/javascript">
+				jQuery( function($){
+					// On "added_to_cart" live event
+					// let url = "http://localhost:8888/vatlieunhakhoa/";
+					$(document.body).on('added_to_cart', function( a, b, c, d ) {
+
+						var prod_id   = d.data('product_id'), // Get the product name
+							prod_qty  = d.data('quantity'), // Get the quantity
+							prod_name = d.data('product_name'), // Get the product name
+							prod_image = d.data('product_image'), // Get the product image
+							prod_price = d.data('product_price'), // Get the product price
+							prod_slug = d.data('product_slug'); // Get the product slug
+							// console.log('image', prod_image);
+						
+							
+							$.notify({
+								title: prod_name,
+								message: format_money_vn(prod_price)
+							},{
+								type: 'minimalist',
+								delay: 5000,
+								icon_type: 'image',
+								template: '<div data-notify="container" class="col-xs-11 col-sm-3 alert alert-{0} fix-alert" role="alert">' 
+								+ '<div class="notify_parent">' +prod_image +'<div class="notify_div">'+
+										'<p data-notify="title"><a href="'+url+prod_slug+'">{1}</a></p>' +
+										'<p data-notify="message">{2}</p>' +
+									'</div>' +
+									'</div>' +
+								'</div>'
+							});
+
+							let check_cart_list = cart_lists.some(function(item) {
+								return item.id === prod_id;
+							});
+							if (check_cart_list) {
+								let cart_item_find = cart_lists.find(function(item) {
+									return item.id === prod_id;
+								});
+								cart_item_find.quantity += 1;
+								// console.log('cart_item_find', cart_item_find.quantity);
+							} else {
+								cart_lists.push({
+									id: prod_id,
+									name: prod_name,
+									slug: prod_slug,
+									quantity: prod_qty,
+									price: prod_price,
+									image: prod_image,
+								});
+								
+							$("#cart-total").text(cart_lists.length)
+							$(".top-subtotal .price").text(format_money_vn(total_prices(cart_lists)));
+							// console.log('cart_lists length',cart_lists.length);
+
+							// show_cart_lists(cart_lists, prod_id);
+							$("#cart-sidebar").replaceWith(show_cart_lists(cart_lists, prod_id));
+
+							product_views.push({
+									id: prod_id,
+									name: prod_name,
+									slug: prod_slug,
+									quantity: prod_qty,
+									price: prod_price,
+									image: prod_image,
+								});
+							}
+							// console.log('product_views', product_views);
+							$(".pr-list-product-slide").replaceWith(product_view(product_views));
+							localStorage.setItem("product_lists", JSON.stringify(product_views));
+					});
+					$(document).on("click",".remove",function() {
+						var prod_id   = $(this).data('product_id');
+						// console.log('prod_id', prod_id);
+						let item_cart_list = cart_lists.find(function(item) {
+							return item.id === prod_id;
+						});
+						cart_lists.pop(item_cart_list);
+
+						$("#cart-total").text(cart_lists.length)
+						$(".top-subtotal .price").text(format_money_vn(total_prices(cart_lists)));
+						// console.log('cart_lists length',cart_lists.length);
+
+						show_cart_lists(cart_lists, prod_id);
+						$("#cart-sidebar").replaceWith(show_cart_lists(cart_lists, prod_id));
+					});
+				});
+				</script>
+					<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script src='http://localhost:8888/vatlieunhakhoa/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="http://localhost:8888/vatlieunhakhoa/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="http://localhost:8888/vatlieunhakhoa/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="http://localhost:8888/vatlieunhakhoa/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="http://localhost:8888/vatlieunhakhoa/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="http://localhost:8888/vatlieunhakhoa/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="http://localhost:8888/vatlieunhakhoa/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="http://localhost:8888/vatlieunhakhoa/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
+</script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"http:\/\/localhost:8888\/vatlieunhakhoa\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+</script>
+<script src='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.1' id='contact-form-7-js'></script>
+<script src='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script id='wc-add-to-cart-js-extra'>
+var wc_add_to_cart_params = {"ajax_url":"\/vatlieunhakhoa\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/vatlieunhakhoa\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/localhost:8888\/vatlieunhakhoa\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.3.0' id='wc-add-to-cart-js'></script>
+<script src='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script id='woocommerce-js-extra'>
+var woocommerce_params = {"ajax_url":"\/vatlieunhakhoa\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/vatlieunhakhoa\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.3.0' id='woocommerce-js'></script>
+<script id='wc-cart-fragments-js-extra'>
+var wc_cart_fragments_params = {"ajax_url":"\/vatlieunhakhoa\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/vatlieunhakhoa\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_4d251f63d45a197b3e4b8287eb46aa7f","fragment_name":"wc_fragments_4d251f63d45a197b3e4b8287eb46aa7f","request_timeout":"5000"};
+</script>
+<script src='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.3.0' id='wc-cart-fragments-js'></script>
+<script id='wc-cart-fragments-js-after'>
+		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+			var jetpackLazyImagesLoadEvent;
+			try {
+				jetpackLazyImagesLoadEvent = new Event( 'jetpack-lazy-images-load', {
+					bubbles: true,
+					cancelable: true
+				} );
+			} catch ( e ) {
+				jetpackLazyImagesLoadEvent = document.createEvent( 'Event' )
+				jetpackLazyImagesLoadEvent.initEvent( 'jetpack-lazy-images-load', true, true );
+			}
+			jQuery( 'body' ).get( 0 ).dispatchEvent( jetpackLazyImagesLoadEvent );
+		} );
+		
+</script>
+<script src='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/yith-woocommerce-ajax-search/assets/js/yith-autocomplete.min.js?ver=1.2.7' id='yith_autocomplete-js'></script>
+<script id='mailchimp-woocommerce-js-extra'>
+var mailchimp_public_data = {"site_url":"http:\/\/localhost:8888\/vatlieunhakhoa","ajax_url":"http:\/\/localhost:8888\/vatlieunhakhoa\/wp-admin\/admin-ajax.php","language":"en"};
+</script>
+<script src='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=2.5.1' id='mailchimp-woocommerce-js'></script>
+<script src='http://localhost:8888/vatlieunhakhoa/wp-content/themes/vatlieunhakhoa/js/navigation.js?ver=1.0.0' id='vatlieunhakhoa-navigation-js'></script>
+<script src='http://localhost:8888/vatlieunhakhoa/wp-includes/js/wp-embed.min.js?ver=5.7.9' id='wp-embed-js'></script>
+<script id='yith_wcas_frontend-js-extra'>
+var yith_wcas_params = {"loading":"http:\/\/localhost:8888\/vatlieunhakhoa\/wp-content\/plugins\/yith-woocommerce-ajax-search\/assets\/images\/ajax-loader.gif","ajax_url":"http:\/\/localhost:8888\/vatlieunhakhoa\/wp-admin\/admin-ajax.php"};
+</script>
+<script src='http://localhost:8888/vatlieunhakhoa/wp-content/plugins/yith-woocommerce-ajax-search/assets/js/frontend.min.js?ver=1.0' id='yith_wcas_frontend-js'></script>
+<script>
+    let cart_lists = [];
+    let product_views = [];
+    let url = "http://localhost:8888/vatlieunhakhoa/";
+            cart_lists.push({
+            id: 322,
+            name: "ĐẦU TAY XỊT NHA KHOA DÙNG 1 LẦN( Dental Air Water Syringe Tips)",
+            slug: "dau-tay-xit-nha-khoa-dung-1-lan-dental-air-water-syringe-tips",
+            quantity: 2,
+            price: 199000,
+            image: '<img width="450" height="450" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/voi-xit-nha-khoa-1-lan.jpg" class="attachment-src size-src" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/voi-xit-nha-khoa-1-lan.jpg 450w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/voi-xit-nha-khoa-1-lan-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/voi-xit-nha-khoa-1-lan-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/voi-xit-nha-khoa-1-lan-100x100.jpg 100w" sizes="(max-width: 450px) 100vw, 450px" />',
+        });
+            cart_lists.push({
+            id: 308,
+            name: "Ly Nhựa Dùng 1 Lần 220ml",
+            slug: "ly-nhua-dung-1-lan-220ml",
+            quantity: 1,
+            price: 15000,
+            image: '<img width="215" height="215" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ly-nhua-220ml-1-cay-50-cai.jpg" class="attachment-src size-src" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ly-nhua-220ml-1-cay-50-cai.jpg 215w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ly-nhua-220ml-1-cay-50-cai-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/ly-nhua-220ml-1-cay-50-cai-100x100.jpg 100w" sizes="(max-width: 215px) 100vw, 215px" />',
+        });
+            cart_lists.push({
+            id: 320,
+            name: "KÍNH CHE MẶT( KÍNH BẢO VỆ) COTISEN- Face Shield With Frame",
+            slug: "kinh-che-mat-kinh-bao-ve-cotisen-face-shield-with-frame",
+            quantity: 2,
+            price: 170000,
+            image: '<img width="450" height="450" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kinh-bao-ho-nha-khoa.jpg" class="attachment-src size-src" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kinh-bao-ho-nha-khoa.jpg 450w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kinh-bao-ho-nha-khoa-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kinh-bao-ho-nha-khoa-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/kinh-bao-ho-nha-khoa-100x100.jpg 100w" sizes="(max-width: 450px) 100vw, 450px" />',
+        });
+            cart_lists.push({
+            id: 248,
+            name: "Thạch Cao Cứng Snowrock",
+            slug: "thach-cao-cung-snowrock",
+            quantity: 1,
+            price: 35000,
+            image: '<img width="480" height="480" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/snow-rock.jpg" class="attachment-src size-src" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/snow-rock.jpg 480w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/snow-rock-300x300.jpg 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/snow-rock-150x150.jpg 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/snow-rock-100x100.jpg 100w" sizes="(max-width: 480px) 100vw, 480px" />',
+        });
+            cart_lists.push({
+            id: 275,
+            name: "CEMENT GẮN MERON PLUS- VOCO",
+            slug: "cement-gan-meron-plus-voco",
+            quantity: 1,
+            price: 1600000,
+            image: '<img width="400" height="400" src="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-meron-plus-voco.png" class="attachment-src size-src" alt="" loading="lazy" srcset="http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-meron-plus-voco.png 400w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-meron-plus-voco-300x300.png 300w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-meron-plus-voco-150x150.png 150w, http://localhost:8888/vatlieunhakhoa/wp-content/uploads/2021/05/cement-gan-meron-plus-voco-100x100.png 100w" sizes="(max-width: 400px) 100vw, 400px" />',
+        });
+        $(document).ready(function() {
+        // console.log('cart count', cart_lists.length)
+        $("#cart-total").text(cart_lists.length);
+        // console.log('Toongr', typeof show_cart_lists(cart_lists));
+        show_cart_lists(cart_lists);
+        $("#cart-sidebar").replaceWith(show_cart_lists(cart_lists));
+        $(".top-subtotal .price").text(format_money_vn(total_prices(cart_lists)));
+
+        let list_storages = JSON.parse(localStorage.getItem("product_lists"));
+        if (list_storages != null) {
+            product_views = list_storages;
+            $(".pr-module-box").css("display", "block");
+            $(".pr-list-product-slide").replaceWith(product_view(list_storages));
+
+        } else {
+            $(".pr-module-box").css("display", "none");
+
+        }
+        console.log('list_storages', product_views);
+    });
+
+    function product_view(arrs) {
+        let ul_parent = '<ul class="pr-list-product-slide">';
+        for (item in arrs) {
+            let li_child = '<li class="pr-product-element" style="width: 20%;">' +
+                '<a class="pr-link" href="' + url + arrs[item].slug + '">' +
+                '<div class="pr-image">' +
+                arrs[item].image +
+                '</div>' +
+                '<div class="pr-name" style="color: rgb(0, 0, 0);">' + arrs[item].name + '</div>' +
+                '<div class="pr-price money">' + format_money_vn(arrs[item].price) + '</div>' +
+                '</a>' +
+                '</li>';
+            ul_parent += li_child;
+        }
+        ul_parent += '</ul>';
+        return ul_parent;
+    }
+
+    function format_money_vn(m) {
+        x = m.toLocaleString('it-IT', {
+            style: 'currency',
+            currency: 'VND'
+        });
+        return x;
+    }
+
+    function show_cart_lists(arr, product_id = 0) {
+        let str_ul = '<ul id="cart-sidebar" class="mini-products-list">';
+        for (item in arr) {
+            // console.log(arr[item].name);
+            let str = '<li class="item">';
+            str += '<a class="product-image" href="' + url + arr[item].slug + '" title="' + arr[item].name + '">' + arr[item].image + '</a>'
+            str += '<div class="detail-item">'
+            str += '<div class="product-details">'
+            str += '<p class="product-name"> <a href="' + url + arr[item].slug + '" title="' + arr[item].name + '">' + arr[item].name + '</a></p>'
+            str += '</div>'
+            str += '<div class="product-details-bottom"> <span class="price">' + format_money_vn(arr[item].price) + '</span>'
+            str += '<span class="title-desc">Số lượng:</span> <strong>' + arr[item].quantity + '</strong>'
+            str += '</div>'
+            str += '</div>'
+            str += '</li>';
+            str_ul += str;
+        };
+
+        str_ul += '</ul>';
+        // console.log('str_ul ', str_ul);
+        return str_ul;
+    }
+
+    function total_prices(arr) {
+        let total_price = arr.reduce(function(bd, item) {
+            return bd += item.price * item.quantity;
+        }, 0);
+        return total_price;
+    }
+</script>
+
+<div class="zalo-chat-widget" data-oaid="2217250059327064993" data-welcome-message="Rất vui khi được hỗ trợ bạn!" data-autopopup="0" data-width="350" data-height="420"></div>
+<script src="https://sp.zalo.me/plugins/sdk.js"></script>
+</body>
+
+</html>
+<!-- Dynamic page generated in 67.308 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2023-06-04 15:19:46 -->
+
+<!-- super cache -->
